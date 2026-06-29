@@ -1,0 +1,200 @@
+[
+  {
+    "mission_id": "mission-c930b1a05fd7",
+    "requester_id": "emp-001",
+    "title": "I need a DevOps mentor before tomorrow",
+    "objective": "I need a DevOps mentor before tomorrow.",
+    "status": "created",
+    "priority": "high",
+    "created_at": "2026-06-29T18:31:53.167678+00:00",
+    "tasks": [
+      {
+        "task_id": "task-1",
+        "title": "Profile the mentorship need",
+        "description": "Capture the target capability gap, time horizon, and preferred mentoring style.",
+        "required_skills": [
+          "mentoring",
+          "knowledge transfer"
+        ],
+        "status": "pending"
+      },
+      {
+        "task_id": "task-2",
+        "title": "Map required expertise",
+        "description": "Identify the domain expertise and seniority signals required for the mentor.",
+        "required_skills": [
+          "skills mapping",
+          "domain expertise"
+        ],
+        "status": "pending"
+      },
+      {
+        "task_id": "task-3",
+        "title": "Prepare mentor shortlist",
+        "description": "Assemble the best mentor candidates with availability-aware rationale.",
+        "required_skills": [
+          "expert discovery",
+          "ranking"
+        ],
+        "status": "pending"
+      }
+    ],
+    "team_member_ids": [],
+    "current_stage": "mission_initialized",
+    "activity_feed": [
+      "Mission Engine authenticated operator 'admin'.",
+      "Intent Agent extracted the mission objective.",
+      "Mission Planner Agent generated executable tasks.",
+      "Skill Mapper Agent identified required capabilities.",
+      "People Discovery Agent prepared enterprise graph search scope.",
+      "Intelligence Agent initialized explainable ranking context.",
+      "Coordinator Agent prepared mission coordination actions.",
+      "Mission Tracker Agent published the initial mission state."
+    ],
+    "execution_timeline": [
+      {
+        "agent_name": "Intent Agent",
+        "status": "completed",
+        "summary": "Mission request normalized and ready for structured extraction.",
+        "timestamp": "2026-06-29T18:31:53.167678+00:00"
+      },
+      {
+        "agent_name": "Mission Planner Agent",
+        "status": "completed",
+        "summary": "Mission decomposed into executable tasks.",
+        "timestamp": "2026-06-29T18:31:53.167678+00:00"
+      },
+      {
+        "agent_name": "Skill Mapper Agent",
+        "status": "completed",
+        "summary": "Required skills mapped for each task.",
+        "timestamp": "2026-06-29T18:31:53.167678+00:00"
+      },
+      {
+        "agent_name": "People Discovery Agent",
+        "status": "completed",
+        "summary": "Enterprise knowledge graph search scope prepared.",
+        "timestamp": "2026-06-29T18:31:53.167678+00:00"
+      },
+      {
+        "agent_name": "Intelligence Agent",
+        "status": "completed",
+        "summary": "Recommendation framework initialized with explainability requirements.",
+        "timestamp": "2026-06-29T18:31:53.167678+00:00"
+      },
+      {
+        "agent_name": "Coordinator Agent",
+        "status": "completed",
+        "summary": "Assignment and meeting coordination prepared.",
+        "timestamp": "2026-06-29T18:31:53.167678+00:00"
+      },
+      {
+        "agent_name": "Mission Tracker Agent",
+        "status": "completed",
+        "summary": "Mission state published to the dashboard timeline.",
+        "timestamp": "2026-06-29T18:31:53.167678+00:00"
+      }
+    ],
+    "root_agent_name": "Mission Engine Root",
+    "adk_available": true
+  },
+  {
+    "mission_id": "mission-23c384b6c911",
+    "requester_id": "emp-001",
+    "title": "I need a DevOps mentor before tomorrow",
+    "objective": "I need a DevOps mentor before tomorrow.",
+    "status": "created",
+    "priority": "high",
+    "created_at": "2026-06-29T18:33:55.644070+00:00",
+    "tasks": [
+      {
+        "task_id": "task-1",
+        "title": "Profile the mentorship need",
+        "description": "Capture the target capability gap, time horizon, and preferred mentoring style.",
+        "required_skills": [
+          "mentoring",
+          "knowledge transfer"
+        ],
+        "status": "pending"
+      },
+      {
+        "task_id": "task-2",
+        "title": "Map required expertise",
+        "description": "Identify the domain expertise and seniority signals required for the mentor.",
+        "required_skills": [
+          "skills mapping",
+          "domain expertise"
+        ],
+        "status": "pending"
+      },
+      {
+        "task_id": "task-3",
+        "title": "Prepare mentor shortlist",
+        "description": "Assemble the best mentor candidates with availability-aware rationale.",
+        "required_skills": [
+          "expert discovery",
+          "ranking"
+        ],
+        "status": "pending"
+      }
+    ],
+    "team_member_ids": [],
+    "current_stage": "mission_initialized",
+    "activity_feed": [
+      "Mission Engine authenticated operator 'admin'.",
+      "Intent Agent extracted the mission objective.",
+      "Mission Planner Agent generated executable tasks.",
+      "Skill Mapper Agent identified required capabilities.",
+      "People Discovery Agent prepared enterprise graph search scope.",
+      "Intelligence Agent initialized explainable ranking context.",
+      "Coordinator Agent prepared mission coordination actions.",
+      "Mission Tracker Agent published the initial mission state."
+    ],
+    "execution_timeline": [
+      {
+        "agent_name": "Intent Agent",
+        "status": "completed",
+        "summary": "Mission request normalized and ready for structured extraction.",
+        "timestamp": "2026-06-29T18:33:55.644070+00:00"
+      },
+      {
+        "agent_name": "Mission Planner Agent",
+        "status": "completed",
+        "summary": "Mission decomposed into executable tasks.",
+        "timestamp": "2026-06-29T18:33:55.644070+00:00"
+      },
+      {
+        "agent_name": "Skill Mapper Agent",
+        "status": "completed",
+        "summary": "Required skills mapped for each task.",
+        "timestamp": "2026-06-29T18:33:55.644070+00:00"
+      },
+      {
+        "agent_name": "People Discovery Agent",
+        "status": "completed",
+        "summary": "Enterprise knowledge graph search scope prepared.",
+        "timestamp": "2026-06-29T18:33:55.644070+00:00"
+      },
+      {
+        "agent_name": "Intelligence Agent",
+        "status": "completed",
+        "summary": "Recommendation framework initialized with explainability requirements.",
+        "timestamp": "2026-06-29T18:33:55.644070+00:00"
+      },
+      {
+        "agent_name": "Coordinator Agent",
+        "status": "completed",
+        "summary": "Assignment and meeting coordination prepared.",
+        "timestamp": "2026-06-29T18:33:55.644070+00:00"
+      },
+      {
+        "agent_name": "Mission Tracker Agent",
+        "status": "completed",
+        "summary": "Mission state published to the dashboard timeline.",
+        "timestamp": "2026-06-29T18:33:55.644070+00:00"
+      }
+    ],
+    "root_agent_name": "Mission Engine Root",
+    "adk_available": true
+  }
+]
