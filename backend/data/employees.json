@@ -1,1 +1,3903 @@
-[]
+[
+  {
+    "employee_id": "emp-001",
+    "full_name": "Aarav Sharma",
+    "designation": "Software Engineer II",
+    "department": "Engineering",
+    "office_location": "Bengaluru",
+    "experience_years": 5,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Microservices",
+      "Communication",
+      "Program Management",
+      "System Design"
+    ],
+    "certifications": [
+      "Engineering Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 42,
+    "trust_score": 73,
+    "collaboration_score": 71,
+    "mentor_score": 64,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [
+      "proj-002",
+      "proj-011",
+      "proj-017",
+      "proj-020",
+      "proj-023"
+    ],
+    "current_projects": [
+      "proj-001",
+      "proj-003",
+      "proj-007",
+      "proj-009",
+      "proj-010",
+      "proj-012",
+      "proj-013",
+      "proj-019",
+      "proj-021",
+      "proj-022"
+    ]
+  },
+  {
+    "employee_id": "emp-002",
+    "full_name": "Ishita Sharma",
+    "designation": "Senior Software Engineer",
+    "department": "Engineering",
+    "office_location": "Bengaluru",
+    "experience_years": 8,
+    "skills": [
+      "FastAPI",
+      "Microservices",
+      "System Design",
+      "Communication",
+      "Program Management",
+      "React"
+    ],
+    "certifications": [
+      "Engineering Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "availability": "limited",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 49,
+    "trust_score": 78,
+    "collaboration_score": 77,
+    "mentor_score": 68,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [
+      "proj-002",
+      "proj-005",
+      "proj-011",
+      "proj-020"
+    ],
+    "current_projects": [
+      "proj-001",
+      "proj-006",
+      "proj-009",
+      "proj-010",
+      "proj-012",
+      "proj-015",
+      "proj-016",
+      "proj-019",
+      "proj-021",
+      "proj-022"
+    ]
+  },
+  {
+    "employee_id": "emp-003",
+    "full_name": "Rohan Sharma",
+    "designation": "Senior Software Engineer",
+    "department": "Engineering",
+    "office_location": "Bengaluru",
+    "experience_years": 11,
+    "skills": [
+      "Microservices",
+      "System Design",
+      "React",
+      "Communication",
+      "Program Management",
+      "APIs"
+    ],
+    "certifications": [
+      "Engineering Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 56,
+    "trust_score": 83,
+    "collaboration_score": 83,
+    "mentor_score": 72,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [
+      "proj-005",
+      "proj-011",
+      "proj-020"
+    ],
+    "current_projects": [
+      "proj-001",
+      "proj-006",
+      "proj-009",
+      "proj-010",
+      "proj-015",
+      "proj-016",
+      "proj-019",
+      "proj-021"
+    ]
+  },
+  {
+    "employee_id": "emp-004",
+    "full_name": "Meera Sharma",
+    "designation": "Staff Software Engineer",
+    "department": "Engineering",
+    "office_location": "Bengaluru",
+    "experience_years": 14,
+    "skills": [
+      "System Design",
+      "React",
+      "APIs",
+      "Communication",
+      "Program Management",
+      "Python"
+    ],
+    "certifications": [
+      "Engineering Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 63,
+    "trust_score": 88,
+    "collaboration_score": 89,
+    "mentor_score": 76,
+    "communication_style": "Concise and direct",
+    "completed_projects": [
+      "proj-005",
+      "proj-011",
+      "proj-017",
+      "proj-020",
+      "proj-023"
+    ],
+    "current_projects": [
+      "proj-001",
+      "proj-003",
+      "proj-006",
+      "proj-007",
+      "proj-009",
+      "proj-010",
+      "proj-013",
+      "proj-015",
+      "proj-016",
+      "proj-019",
+      "proj-021"
+    ]
+  },
+  {
+    "employee_id": "emp-005",
+    "full_name": "Karan Sharma",
+    "designation": "Software Engineer II",
+    "department": "Engineering",
+    "office_location": "Bengaluru",
+    "experience_years": 2,
+    "skills": [
+      "React",
+      "APIs",
+      "Python",
+      "Communication",
+      "Program Management",
+      "FastAPI"
+    ],
+    "certifications": [
+      "Engineering Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 70,
+    "trust_score": 93,
+    "collaboration_score": 65,
+    "mentor_score": 80,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [
+      "proj-002",
+      "proj-005",
+      "proj-011",
+      "proj-017",
+      "proj-020",
+      "proj-023"
+    ],
+    "current_projects": [
+      "proj-001",
+      "proj-003",
+      "proj-006",
+      "proj-007",
+      "proj-009",
+      "proj-010",
+      "proj-012",
+      "proj-013",
+      "proj-015",
+      "proj-016",
+      "proj-019",
+      "proj-021",
+      "proj-022"
+    ]
+  },
+  {
+    "employee_id": "emp-006",
+    "full_name": "Ananya Sharma",
+    "designation": "Software Engineer II",
+    "department": "Engineering",
+    "office_location": "Bengaluru",
+    "experience_years": 5,
+    "skills": [
+      "APIs",
+      "Python",
+      "FastAPI",
+      "Communication",
+      "Program Management",
+      "Microservices"
+    ],
+    "certifications": [
+      "Engineering Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 77,
+    "trust_score": 70,
+    "collaboration_score": 71,
+    "mentor_score": 84,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [
+      "proj-002",
+      "proj-011",
+      "proj-017",
+      "proj-020",
+      "proj-023"
+    ],
+    "current_projects": [
+      "proj-001",
+      "proj-003",
+      "proj-007",
+      "proj-009",
+      "proj-010",
+      "proj-012",
+      "proj-013",
+      "proj-019",
+      "proj-021",
+      "proj-022"
+    ]
+  },
+  {
+    "employee_id": "emp-007",
+    "full_name": "Vikram Sharma",
+    "designation": "Senior Software Engineer",
+    "department": "Engineering",
+    "office_location": "Bengaluru",
+    "experience_years": 8,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Microservices",
+      "Communication",
+      "Program Management",
+      "System Design"
+    ],
+    "certifications": [
+      "Engineering Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "availability": "limited",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 84,
+    "trust_score": 75,
+    "collaboration_score": 77,
+    "mentor_score": 88,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [
+      "proj-002",
+      "proj-011",
+      "proj-017",
+      "proj-020",
+      "proj-023"
+    ],
+    "current_projects": [
+      "proj-003",
+      "proj-007",
+      "proj-009",
+      "proj-012",
+      "proj-013",
+      "proj-021",
+      "proj-022"
+    ]
+  },
+  {
+    "employee_id": "emp-008",
+    "full_name": "Nisha Sharma",
+    "designation": "Senior Software Engineer",
+    "department": "Engineering",
+    "office_location": "Bengaluru",
+    "experience_years": 11,
+    "skills": [
+      "FastAPI",
+      "Microservices",
+      "System Design",
+      "Communication",
+      "Program Management",
+      "React"
+    ],
+    "certifications": [
+      "Engineering Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 35,
+    "trust_score": 80,
+    "collaboration_score": 83,
+    "mentor_score": 92,
+    "communication_style": "Concise and direct",
+    "completed_projects": [
+      "proj-002",
+      "proj-005"
+    ],
+    "current_projects": [
+      "proj-006",
+      "proj-009",
+      "proj-012",
+      "proj-015",
+      "proj-016",
+      "proj-021",
+      "proj-022"
+    ]
+  },
+  {
+    "employee_id": "emp-009",
+    "full_name": "Arjun Sharma",
+    "designation": "Staff Software Engineer",
+    "department": "Engineering",
+    "office_location": "Bengaluru",
+    "experience_years": 14,
+    "skills": [
+      "Microservices",
+      "System Design",
+      "React",
+      "Communication",
+      "Program Management",
+      "APIs"
+    ],
+    "certifications": [
+      "Engineering Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 42,
+    "trust_score": 85,
+    "collaboration_score": 89,
+    "mentor_score": 61,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [
+      "proj-005"
+    ],
+    "current_projects": [
+      "proj-006",
+      "proj-015",
+      "proj-016"
+    ]
+  },
+  {
+    "employee_id": "emp-010",
+    "full_name": "Priya Sharma",
+    "designation": "Software Engineer II",
+    "department": "Engineering",
+    "office_location": "Bengaluru",
+    "experience_years": 2,
+    "skills": [
+      "System Design",
+      "React",
+      "APIs",
+      "Communication",
+      "Program Management",
+      "Python"
+    ],
+    "certifications": [
+      "Engineering Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 49,
+    "trust_score": 90,
+    "collaboration_score": 65,
+    "mentor_score": 65,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [
+      "proj-005",
+      "proj-017",
+      "proj-023"
+    ],
+    "current_projects": [
+      "proj-003",
+      "proj-006",
+      "proj-007",
+      "proj-013",
+      "proj-015"
+    ]
+  },
+  {
+    "employee_id": "emp-011",
+    "full_name": "Neel Sharma",
+    "designation": "Software Engineer II",
+    "department": "Engineering",
+    "office_location": "Bengaluru",
+    "experience_years": 5,
+    "skills": [
+      "React",
+      "APIs",
+      "Python",
+      "Communication",
+      "Program Management",
+      "FastAPI"
+    ],
+    "certifications": [
+      "Engineering Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 56,
+    "trust_score": 95,
+    "collaboration_score": 71,
+    "mentor_score": 69,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [
+      "proj-002",
+      "proj-017",
+      "proj-023"
+    ],
+    "current_projects": [
+      "proj-003",
+      "proj-006",
+      "proj-012",
+      "proj-015"
+    ]
+  },
+  {
+    "employee_id": "emp-012",
+    "full_name": "Kavya Sharma",
+    "designation": "Senior Software Engineer",
+    "department": "Engineering",
+    "office_location": "Bengaluru",
+    "experience_years": 8,
+    "skills": [
+      "APIs",
+      "Python",
+      "FastAPI",
+      "Communication",
+      "Program Management",
+      "Microservices"
+    ],
+    "certifications": [
+      "Engineering Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "availability": "limited",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 63,
+    "trust_score": 72,
+    "collaboration_score": 77,
+    "mentor_score": 73,
+    "communication_style": "Concise and direct",
+    "completed_projects": [],
+    "current_projects": [
+      "proj-003",
+      "proj-012"
+    ]
+  },
+  {
+    "employee_id": "emp-013",
+    "full_name": "Siddharth Sharma",
+    "designation": "Senior Software Engineer",
+    "department": "Engineering",
+    "office_location": "Bengaluru",
+    "experience_years": 11,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Microservices",
+      "Communication",
+      "Program Management",
+      "System Design"
+    ],
+    "certifications": [
+      "Engineering Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 70,
+    "trust_score": 77,
+    "collaboration_score": 83,
+    "mentor_score": 77,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-014",
+    "full_name": "Aisha Sharma",
+    "designation": "Staff Software Engineer",
+    "department": "Engineering",
+    "office_location": "Bengaluru",
+    "experience_years": 14,
+    "skills": [
+      "FastAPI",
+      "Microservices",
+      "System Design",
+      "Communication",
+      "Program Management",
+      "React"
+    ],
+    "certifications": [
+      "Engineering Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 77,
+    "trust_score": 82,
+    "collaboration_score": 89,
+    "mentor_score": 81,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-015",
+    "full_name": "Rahul Sharma",
+    "designation": "Software Engineer II",
+    "department": "Engineering",
+    "office_location": "Bengaluru",
+    "experience_years": 2,
+    "skills": [
+      "Microservices",
+      "System Design",
+      "React",
+      "Communication",
+      "Program Management",
+      "APIs"
+    ],
+    "certifications": [
+      "Engineering Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 84,
+    "trust_score": 87,
+    "collaboration_score": 65,
+    "mentor_score": 85,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-016",
+    "full_name": "Diya Sharma",
+    "designation": "Software Engineer II",
+    "department": "Engineering",
+    "office_location": "Bengaluru",
+    "experience_years": 5,
+    "skills": [
+      "System Design",
+      "React",
+      "APIs",
+      "Communication",
+      "Program Management",
+      "Python"
+    ],
+    "certifications": [
+      "Engineering Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 35,
+    "trust_score": 92,
+    "collaboration_score": 71,
+    "mentor_score": 89,
+    "communication_style": "Concise and direct",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-017",
+    "full_name": "Varun Sharma",
+    "designation": "Senior DevOps Engineer",
+    "department": "DevOps",
+    "office_location": "Pune",
+    "experience_years": 8,
+    "skills": [
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "Communication",
+      "Program Management",
+      "AWS"
+    ],
+    "certifications": [
+      "DevOps Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "availability": "limited",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 42,
+    "trust_score": 69,
+    "collaboration_score": 77,
+    "mentor_score": 93,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [
+      "proj-014"
+    ],
+    "current_projects": [
+      "proj-004",
+      "proj-024"
+    ]
+  },
+  {
+    "employee_id": "emp-018",
+    "full_name": "Sneha Sharma",
+    "designation": "Senior DevOps Engineer",
+    "department": "DevOps",
+    "office_location": "Pune",
+    "experience_years": 11,
+    "skills": [
+      "Terraform",
+      "CI/CD",
+      "AWS",
+      "Communication",
+      "Program Management",
+      "Docker"
+    ],
+    "certifications": [
+      "DevOps Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 49,
+    "trust_score": 74,
+    "collaboration_score": 83,
+    "mentor_score": 62,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [
+      "proj-014"
+    ],
+    "current_projects": [
+      "proj-004",
+      "proj-024"
+    ]
+  },
+  {
+    "employee_id": "emp-019",
+    "full_name": "Aditya Sharma",
+    "designation": "Platform Engineer",
+    "department": "DevOps",
+    "office_location": "Pune",
+    "experience_years": 14,
+    "skills": [
+      "CI/CD",
+      "AWS",
+      "Docker",
+      "Communication",
+      "Program Management",
+      "Observability"
+    ],
+    "certifications": [
+      "DevOps Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 56,
+    "trust_score": 79,
+    "collaboration_score": 89,
+    "mentor_score": 66,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [
+      "proj-014"
+    ],
+    "current_projects": [
+      "proj-004",
+      "proj-024"
+    ]
+  },
+  {
+    "employee_id": "emp-020",
+    "full_name": "Pooja Sharma",
+    "designation": "DevOps Engineer",
+    "department": "DevOps",
+    "office_location": "Pune",
+    "experience_years": 2,
+    "skills": [
+      "AWS",
+      "Docker",
+      "Observability",
+      "Communication",
+      "Program Management",
+      "Kubernetes"
+    ],
+    "certifications": [
+      "DevOps Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 63,
+    "trust_score": 84,
+    "collaboration_score": 65,
+    "mentor_score": 70,
+    "communication_style": "Concise and direct",
+    "completed_projects": [
+      "proj-014"
+    ],
+    "current_projects": [
+      "proj-004",
+      "proj-024"
+    ]
+  },
+  {
+    "employee_id": "emp-021",
+    "full_name": "Krish Sharma",
+    "designation": "DevOps Engineer",
+    "department": "DevOps",
+    "office_location": "Pune",
+    "experience_years": 5,
+    "skills": [
+      "Docker",
+      "Observability",
+      "Kubernetes",
+      "Communication",
+      "Program Management",
+      "Terraform"
+    ],
+    "certifications": [
+      "DevOps Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 70,
+    "trust_score": 89,
+    "collaboration_score": 71,
+    "mentor_score": 74,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [
+      "proj-014"
+    ],
+    "current_projects": [
+      "proj-004",
+      "proj-024"
+    ]
+  },
+  {
+    "employee_id": "emp-022",
+    "full_name": "Riya Sharma",
+    "designation": "Senior DevOps Engineer",
+    "department": "DevOps",
+    "office_location": "Pune",
+    "experience_years": 8,
+    "skills": [
+      "Observability",
+      "Kubernetes",
+      "Terraform",
+      "Communication",
+      "Program Management",
+      "CI/CD"
+    ],
+    "certifications": [
+      "DevOps Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "availability": "limited",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 77,
+    "trust_score": 94,
+    "collaboration_score": 77,
+    "mentor_score": 78,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [
+      "proj-014"
+    ],
+    "current_projects": [
+      "proj-004",
+      "proj-024"
+    ]
+  },
+  {
+    "employee_id": "emp-023",
+    "full_name": "Manav Sharma",
+    "designation": "Senior DevOps Engineer",
+    "department": "DevOps",
+    "office_location": "Pune",
+    "experience_years": 11,
+    "skills": [
+      "Kubernetes",
+      "Terraform",
+      "CI/CD",
+      "Communication",
+      "Program Management",
+      "AWS"
+    ],
+    "certifications": [
+      "DevOps Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 84,
+    "trust_score": 71,
+    "collaboration_score": 83,
+    "mentor_score": 82,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [
+      "proj-014"
+    ],
+    "current_projects": [
+      "proj-024"
+    ]
+  },
+  {
+    "employee_id": "emp-024",
+    "full_name": "Shreya Sharma",
+    "designation": "Platform Engineer",
+    "department": "DevOps",
+    "office_location": "Pune",
+    "experience_years": 14,
+    "skills": [
+      "Terraform",
+      "CI/CD",
+      "AWS",
+      "Communication",
+      "Program Management",
+      "Docker"
+    ],
+    "certifications": [
+      "DevOps Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 35,
+    "trust_score": 76,
+    "collaboration_score": 89,
+    "mentor_score": 86,
+    "communication_style": "Concise and direct",
+    "completed_projects": [],
+    "current_projects": [
+      "proj-024"
+    ]
+  },
+  {
+    "employee_id": "emp-025",
+    "full_name": "Yash Sharma",
+    "designation": "DevOps Engineer",
+    "department": "DevOps",
+    "office_location": "Pune",
+    "experience_years": 2,
+    "skills": [
+      "CI/CD",
+      "AWS",
+      "Docker",
+      "Communication",
+      "Program Management",
+      "Observability"
+    ],
+    "certifications": [
+      "DevOps Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 42,
+    "trust_score": 81,
+    "collaboration_score": 65,
+    "mentor_score": 90,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-026",
+    "full_name": "Aarav Patel",
+    "designation": "DevOps Engineer",
+    "department": "DevOps",
+    "office_location": "Pune",
+    "experience_years": 5,
+    "skills": [
+      "AWS",
+      "Docker",
+      "Observability",
+      "Communication",
+      "Program Management",
+      "Kubernetes"
+    ],
+    "certifications": [
+      "DevOps Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 49,
+    "trust_score": 86,
+    "collaboration_score": 71,
+    "mentor_score": 94,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-027",
+    "full_name": "Ishita Patel",
+    "designation": "Senior DevOps Engineer",
+    "department": "DevOps",
+    "office_location": "Pune",
+    "experience_years": 8,
+    "skills": [
+      "Docker",
+      "Observability",
+      "Kubernetes",
+      "Communication",
+      "Program Management",
+      "Terraform"
+    ],
+    "certifications": [
+      "DevOps Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "availability": "limited",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 56,
+    "trust_score": 91,
+    "collaboration_score": 77,
+    "mentor_score": 63,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-028",
+    "full_name": "Rohan Patel",
+    "designation": "Senior DevOps Engineer",
+    "department": "DevOps",
+    "office_location": "Pune",
+    "experience_years": 11,
+    "skills": [
+      "Observability",
+      "Kubernetes",
+      "Terraform",
+      "Communication",
+      "Program Management",
+      "CI/CD"
+    ],
+    "certifications": [
+      "DevOps Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 63,
+    "trust_score": 68,
+    "collaboration_score": 83,
+    "mentor_score": 67,
+    "communication_style": "Concise and direct",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-029",
+    "full_name": "Meera Patel",
+    "designation": "Senior Product Manager",
+    "department": "Product",
+    "office_location": "Mumbai",
+    "experience_years": 14,
+    "skills": [
+      "Product Strategy",
+      "Roadmapping",
+      "Stakeholder Management",
+      "Communication",
+      "Program Management",
+      "Customer Research"
+    ],
+    "certifications": [
+      "Product Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 70,
+    "trust_score": 73,
+    "collaboration_score": 89,
+    "mentor_score": 71,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-030",
+    "full_name": "Karan Patel",
+    "designation": "Product Analyst",
+    "department": "Product",
+    "office_location": "Mumbai",
+    "experience_years": 2,
+    "skills": [
+      "Roadmapping",
+      "Stakeholder Management",
+      "Customer Research",
+      "Communication",
+      "Program Management",
+      "Analytics"
+    ],
+    "certifications": [
+      "Product Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 77,
+    "trust_score": 78,
+    "collaboration_score": 65,
+    "mentor_score": 75,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-031",
+    "full_name": "Ananya Patel",
+    "designation": "Product Analyst",
+    "department": "Product",
+    "office_location": "Mumbai",
+    "experience_years": 5,
+    "skills": [
+      "Stakeholder Management",
+      "Customer Research",
+      "Analytics",
+      "Communication",
+      "Program Management",
+      "Product Strategy"
+    ],
+    "certifications": [
+      "Product Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 84,
+    "trust_score": 83,
+    "collaboration_score": 71,
+    "mentor_score": 79,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-032",
+    "full_name": "Vikram Patel",
+    "designation": "Product Manager",
+    "department": "Product",
+    "office_location": "Mumbai",
+    "experience_years": 8,
+    "skills": [
+      "Customer Research",
+      "Analytics",
+      "Product Strategy",
+      "Communication",
+      "Program Management",
+      "Roadmapping"
+    ],
+    "certifications": [
+      "Product Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "availability": "limited",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 35,
+    "trust_score": 88,
+    "collaboration_score": 77,
+    "mentor_score": 83,
+    "communication_style": "Concise and direct",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-033",
+    "full_name": "Nisha Patel",
+    "designation": "Product Manager",
+    "department": "Product",
+    "office_location": "Mumbai",
+    "experience_years": 11,
+    "skills": [
+      "Analytics",
+      "Product Strategy",
+      "Roadmapping",
+      "Communication",
+      "Program Management",
+      "Stakeholder Management"
+    ],
+    "certifications": [
+      "Product Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 42,
+    "trust_score": 93,
+    "collaboration_score": 83,
+    "mentor_score": 87,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-034",
+    "full_name": "Arjun Patel",
+    "designation": "Senior Product Manager",
+    "department": "Product",
+    "office_location": "Mumbai",
+    "experience_years": 14,
+    "skills": [
+      "Product Strategy",
+      "Roadmapping",
+      "Stakeholder Management",
+      "Communication",
+      "Program Management",
+      "Customer Research"
+    ],
+    "certifications": [
+      "Product Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 49,
+    "trust_score": 70,
+    "collaboration_score": 89,
+    "mentor_score": 91,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-035",
+    "full_name": "Priya Patel",
+    "designation": "Product Analyst",
+    "department": "Product",
+    "office_location": "Mumbai",
+    "experience_years": 2,
+    "skills": [
+      "Roadmapping",
+      "Stakeholder Management",
+      "Customer Research",
+      "Communication",
+      "Program Management",
+      "Analytics"
+    ],
+    "certifications": [
+      "Product Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 56,
+    "trust_score": 75,
+    "collaboration_score": 65,
+    "mentor_score": 60,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-036",
+    "full_name": "Neel Patel",
+    "designation": "Product Analyst",
+    "department": "Product",
+    "office_location": "Mumbai",
+    "experience_years": 5,
+    "skills": [
+      "Stakeholder Management",
+      "Customer Research",
+      "Analytics",
+      "Communication",
+      "Program Management",
+      "Product Strategy"
+    ],
+    "certifications": [
+      "Product Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 63,
+    "trust_score": 80,
+    "collaboration_score": 71,
+    "mentor_score": 64,
+    "communication_style": "Concise and direct",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-037",
+    "full_name": "Kavya Patel",
+    "designation": "Product Manager",
+    "department": "Product",
+    "office_location": "Mumbai",
+    "experience_years": 8,
+    "skills": [
+      "Customer Research",
+      "Analytics",
+      "Product Strategy",
+      "Communication",
+      "Program Management",
+      "Roadmapping"
+    ],
+    "certifications": [
+      "Product Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "availability": "limited",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 70,
+    "trust_score": 85,
+    "collaboration_score": 77,
+    "mentor_score": 68,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-038",
+    "full_name": "Siddharth Patel",
+    "designation": "Product Manager",
+    "department": "Product",
+    "office_location": "Mumbai",
+    "experience_years": 11,
+    "skills": [
+      "Analytics",
+      "Product Strategy",
+      "Roadmapping",
+      "Communication",
+      "Program Management",
+      "Stakeholder Management"
+    ],
+    "certifications": [
+      "Product Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 77,
+    "trust_score": 90,
+    "collaboration_score": 83,
+    "mentor_score": 72,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-039",
+    "full_name": "Aisha Patel",
+    "designation": "Quality Automation Lead",
+    "department": "QA",
+    "office_location": "Hyderabad",
+    "experience_years": 14,
+    "skills": [
+      "Test Automation",
+      "Selenium",
+      "Playwright",
+      "Communication",
+      "Program Management",
+      "API Testing"
+    ],
+    "certifications": [
+      "QA Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 84,
+    "trust_score": 95,
+    "collaboration_score": 89,
+    "mentor_score": 76,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [
+      "proj-008"
+    ],
+    "current_projects": [
+      "proj-018"
+    ]
+  },
+  {
+    "employee_id": "emp-040",
+    "full_name": "Rahul Patel",
+    "designation": "QA Engineer",
+    "department": "QA",
+    "office_location": "Hyderabad",
+    "experience_years": 2,
+    "skills": [
+      "Selenium",
+      "Playwright",
+      "API Testing",
+      "Communication",
+      "Program Management",
+      "Quality Engineering"
+    ],
+    "certifications": [
+      "QA Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 35,
+    "trust_score": 72,
+    "collaboration_score": 65,
+    "mentor_score": 80,
+    "communication_style": "Concise and direct",
+    "completed_projects": [
+      "proj-008"
+    ],
+    "current_projects": [
+      "proj-018"
+    ]
+  },
+  {
+    "employee_id": "emp-041",
+    "full_name": "Diya Patel",
+    "designation": "QA Engineer",
+    "department": "QA",
+    "office_location": "Hyderabad",
+    "experience_years": 5,
+    "skills": [
+      "Playwright",
+      "API Testing",
+      "Quality Engineering",
+      "Communication",
+      "Program Management",
+      "Test Automation"
+    ],
+    "certifications": [
+      "QA Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 42,
+    "trust_score": 77,
+    "collaboration_score": 71,
+    "mentor_score": 84,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [
+      "proj-008"
+    ],
+    "current_projects": [
+      "proj-018"
+    ]
+  },
+  {
+    "employee_id": "emp-042",
+    "full_name": "Varun Patel",
+    "designation": "Senior QA Engineer",
+    "department": "QA",
+    "office_location": "Hyderabad",
+    "experience_years": 8,
+    "skills": [
+      "API Testing",
+      "Quality Engineering",
+      "Test Automation",
+      "Communication",
+      "Program Management",
+      "Selenium"
+    ],
+    "certifications": [
+      "QA Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "availability": "limited",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 49,
+    "trust_score": 82,
+    "collaboration_score": 77,
+    "mentor_score": 88,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [
+      "proj-008"
+    ],
+    "current_projects": [
+      "proj-018"
+    ]
+  },
+  {
+    "employee_id": "emp-043",
+    "full_name": "Sneha Patel",
+    "designation": "Senior QA Engineer",
+    "department": "QA",
+    "office_location": "Hyderabad",
+    "experience_years": 11,
+    "skills": [
+      "Quality Engineering",
+      "Test Automation",
+      "Selenium",
+      "Communication",
+      "Program Management",
+      "Playwright"
+    ],
+    "certifications": [
+      "QA Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 56,
+    "trust_score": 87,
+    "collaboration_score": 83,
+    "mentor_score": 92,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [
+      "proj-008"
+    ],
+    "current_projects": [
+      "proj-018"
+    ]
+  },
+  {
+    "employee_id": "emp-044",
+    "full_name": "Aditya Patel",
+    "designation": "Quality Automation Lead",
+    "department": "QA",
+    "office_location": "Hyderabad",
+    "experience_years": 14,
+    "skills": [
+      "Test Automation",
+      "Selenium",
+      "Playwright",
+      "Communication",
+      "Program Management",
+      "API Testing"
+    ],
+    "certifications": [
+      "QA Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 63,
+    "trust_score": 92,
+    "collaboration_score": 89,
+    "mentor_score": 61,
+    "communication_style": "Concise and direct",
+    "completed_projects": [
+      "proj-008"
+    ],
+    "current_projects": [
+      "proj-018"
+    ]
+  },
+  {
+    "employee_id": "emp-045",
+    "full_name": "Pooja Patel",
+    "designation": "QA Engineer",
+    "department": "QA",
+    "office_location": "Hyderabad",
+    "experience_years": 2,
+    "skills": [
+      "Selenium",
+      "Playwright",
+      "API Testing",
+      "Communication",
+      "Program Management",
+      "Quality Engineering"
+    ],
+    "certifications": [
+      "QA Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 70,
+    "trust_score": 69,
+    "collaboration_score": 65,
+    "mentor_score": 65,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [
+      "proj-008"
+    ],
+    "current_projects": [
+      "proj-018"
+    ]
+  },
+  {
+    "employee_id": "emp-046",
+    "full_name": "Krish Patel",
+    "designation": "QA Engineer",
+    "department": "QA",
+    "office_location": "Hyderabad",
+    "experience_years": 5,
+    "skills": [
+      "Playwright",
+      "API Testing",
+      "Quality Engineering",
+      "Communication",
+      "Program Management",
+      "Test Automation"
+    ],
+    "certifications": [
+      "QA Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 77,
+    "trust_score": 74,
+    "collaboration_score": 71,
+    "mentor_score": 69,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [],
+    "current_projects": [
+      "proj-018"
+    ]
+  },
+  {
+    "employee_id": "emp-047",
+    "full_name": "Riya Patel",
+    "designation": "Senior QA Engineer",
+    "department": "QA",
+    "office_location": "Hyderabad",
+    "experience_years": 8,
+    "skills": [
+      "API Testing",
+      "Quality Engineering",
+      "Test Automation",
+      "Communication",
+      "Program Management",
+      "Selenium"
+    ],
+    "certifications": [
+      "QA Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "availability": "limited",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 84,
+    "trust_score": 79,
+    "collaboration_score": 77,
+    "mentor_score": 73,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-048",
+    "full_name": "Manav Patel",
+    "designation": "Senior QA Engineer",
+    "department": "QA",
+    "office_location": "Hyderabad",
+    "experience_years": 11,
+    "skills": [
+      "Quality Engineering",
+      "Test Automation",
+      "Selenium",
+      "Communication",
+      "Program Management",
+      "Playwright"
+    ],
+    "certifications": [
+      "QA Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 35,
+    "trust_score": 84,
+    "collaboration_score": 83,
+    "mentor_score": 77,
+    "communication_style": "Concise and direct",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-049",
+    "full_name": "Shreya Patel",
+    "designation": "Quality Automation Lead",
+    "department": "QA",
+    "office_location": "Hyderabad",
+    "experience_years": 14,
+    "skills": [
+      "Test Automation",
+      "Selenium",
+      "Playwright",
+      "Communication",
+      "Program Management",
+      "API Testing"
+    ],
+    "certifications": [
+      "QA Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 42,
+    "trust_score": 89,
+    "collaboration_score": 89,
+    "mentor_score": 81,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-050",
+    "full_name": "Yash Patel",
+    "designation": "QA Engineer",
+    "department": "QA",
+    "office_location": "Hyderabad",
+    "experience_years": 2,
+    "skills": [
+      "Selenium",
+      "Playwright",
+      "API Testing",
+      "Communication",
+      "Program Management",
+      "Quality Engineering"
+    ],
+    "certifications": [
+      "QA Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 49,
+    "trust_score": 94,
+    "collaboration_score": 65,
+    "mentor_score": 85,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-051",
+    "full_name": "Aarav Reddy",
+    "designation": "Product Designer",
+    "department": "Design",
+    "office_location": "Gurugram",
+    "experience_years": 5,
+    "skills": [
+      "Figma",
+      "UX Research",
+      "Design Systems",
+      "Communication",
+      "Program Management",
+      "Prototyping"
+    ],
+    "certifications": [
+      "Design Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 56,
+    "trust_score": 71,
+    "collaboration_score": 71,
+    "mentor_score": 89,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-052",
+    "full_name": "Ishita Reddy",
+    "designation": "Senior Product Designer",
+    "department": "Design",
+    "office_location": "Gurugram",
+    "experience_years": 8,
+    "skills": [
+      "UX Research",
+      "Design Systems",
+      "Prototyping",
+      "Communication",
+      "Program Management",
+      "Interaction Design"
+    ],
+    "certifications": [
+      "Design Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "availability": "limited",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 63,
+    "trust_score": 76,
+    "collaboration_score": 77,
+    "mentor_score": 93,
+    "communication_style": "Concise and direct",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-053",
+    "full_name": "Rohan Reddy",
+    "designation": "Senior Product Designer",
+    "department": "Design",
+    "office_location": "Gurugram",
+    "experience_years": 11,
+    "skills": [
+      "Design Systems",
+      "Prototyping",
+      "Interaction Design",
+      "Communication",
+      "Program Management",
+      "Figma"
+    ],
+    "certifications": [
+      "Design Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 70,
+    "trust_score": 81,
+    "collaboration_score": 83,
+    "mentor_score": 62,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-054",
+    "full_name": "Meera Reddy",
+    "designation": "Design Systems Lead",
+    "department": "Design",
+    "office_location": "Gurugram",
+    "experience_years": 14,
+    "skills": [
+      "Prototyping",
+      "Interaction Design",
+      "Figma",
+      "Communication",
+      "Program Management",
+      "UX Research"
+    ],
+    "certifications": [
+      "Design Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 77,
+    "trust_score": 86,
+    "collaboration_score": 89,
+    "mentor_score": 66,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-055",
+    "full_name": "Karan Reddy",
+    "designation": "Product Designer",
+    "department": "Design",
+    "office_location": "Gurugram",
+    "experience_years": 2,
+    "skills": [
+      "Interaction Design",
+      "Figma",
+      "UX Research",
+      "Communication",
+      "Program Management",
+      "Design Systems"
+    ],
+    "certifications": [
+      "Design Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 84,
+    "trust_score": 91,
+    "collaboration_score": 65,
+    "mentor_score": 70,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-056",
+    "full_name": "Ananya Reddy",
+    "designation": "Product Designer",
+    "department": "Design",
+    "office_location": "Gurugram",
+    "experience_years": 5,
+    "skills": [
+      "Figma",
+      "UX Research",
+      "Design Systems",
+      "Communication",
+      "Program Management",
+      "Prototyping"
+    ],
+    "certifications": [
+      "Design Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 35,
+    "trust_score": 68,
+    "collaboration_score": 71,
+    "mentor_score": 74,
+    "communication_style": "Concise and direct",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-057",
+    "full_name": "Vikram Reddy",
+    "designation": "Senior Product Designer",
+    "department": "Design",
+    "office_location": "Gurugram",
+    "experience_years": 8,
+    "skills": [
+      "UX Research",
+      "Design Systems",
+      "Prototyping",
+      "Communication",
+      "Program Management",
+      "Interaction Design"
+    ],
+    "certifications": [
+      "Design Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "availability": "limited",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 42,
+    "trust_score": 73,
+    "collaboration_score": 77,
+    "mentor_score": 78,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-058",
+    "full_name": "Nisha Reddy",
+    "designation": "Senior Product Designer",
+    "department": "Design",
+    "office_location": "Gurugram",
+    "experience_years": 11,
+    "skills": [
+      "Design Systems",
+      "Prototyping",
+      "Interaction Design",
+      "Communication",
+      "Program Management",
+      "Figma"
+    ],
+    "certifications": [
+      "Design Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 49,
+    "trust_score": 78,
+    "collaboration_score": 83,
+    "mentor_score": 82,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-059",
+    "full_name": "Arjun Reddy",
+    "designation": "Design Systems Lead",
+    "department": "Design",
+    "office_location": "Gurugram",
+    "experience_years": 14,
+    "skills": [
+      "Prototyping",
+      "Interaction Design",
+      "Figma",
+      "Communication",
+      "Program Management",
+      "UX Research"
+    ],
+    "certifications": [
+      "Design Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 56,
+    "trust_score": 83,
+    "collaboration_score": 89,
+    "mentor_score": 86,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-060",
+    "full_name": "Priya Reddy",
+    "designation": "Product Designer",
+    "department": "Design",
+    "office_location": "Gurugram",
+    "experience_years": 2,
+    "skills": [
+      "Interaction Design",
+      "Figma",
+      "UX Research",
+      "Communication",
+      "Program Management",
+      "Design Systems"
+    ],
+    "certifications": [
+      "Design Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 63,
+    "trust_score": 88,
+    "collaboration_score": 65,
+    "mentor_score": 90,
+    "communication_style": "Concise and direct",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-061",
+    "full_name": "Neel Reddy",
+    "designation": "HR Business Partner",
+    "department": "HR",
+    "office_location": "Delhi",
+    "experience_years": 5,
+    "skills": [
+      "Talent Management",
+      "Recruiting",
+      "Employee Relations",
+      "Communication",
+      "Program Management",
+      "Learning & Development"
+    ],
+    "certifications": [
+      "HR Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 70,
+    "trust_score": 93,
+    "collaboration_score": 71,
+    "mentor_score": 94,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-062",
+    "full_name": "Kavya Reddy",
+    "designation": "Talent Partner",
+    "department": "HR",
+    "office_location": "Delhi",
+    "experience_years": 8,
+    "skills": [
+      "Recruiting",
+      "Employee Relations",
+      "Learning & Development",
+      "Communication",
+      "Program Management",
+      "Mentoring"
+    ],
+    "certifications": [
+      "HR Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "availability": "limited",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 77,
+    "trust_score": 70,
+    "collaboration_score": 77,
+    "mentor_score": 63,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-063",
+    "full_name": "Siddharth Reddy",
+    "designation": "Talent Partner",
+    "department": "HR",
+    "office_location": "Delhi",
+    "experience_years": 11,
+    "skills": [
+      "Employee Relations",
+      "Learning & Development",
+      "Mentoring",
+      "Communication",
+      "Program Management",
+      "Talent Management"
+    ],
+    "certifications": [
+      "HR Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 84,
+    "trust_score": 75,
+    "collaboration_score": 83,
+    "mentor_score": 67,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-064",
+    "full_name": "Aisha Reddy",
+    "designation": "People Partner",
+    "department": "HR",
+    "office_location": "Delhi",
+    "experience_years": 14,
+    "skills": [
+      "Learning & Development",
+      "Mentoring",
+      "Talent Management",
+      "Communication",
+      "Program Management",
+      "Recruiting"
+    ],
+    "certifications": [
+      "HR Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 35,
+    "trust_score": 80,
+    "collaboration_score": 89,
+    "mentor_score": 71,
+    "communication_style": "Concise and direct",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-065",
+    "full_name": "Rahul Reddy",
+    "designation": "HR Business Partner",
+    "department": "HR",
+    "office_location": "Delhi",
+    "experience_years": 2,
+    "skills": [
+      "Mentoring",
+      "Talent Management",
+      "Recruiting",
+      "Communication",
+      "Program Management",
+      "Employee Relations"
+    ],
+    "certifications": [
+      "HR Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 42,
+    "trust_score": 85,
+    "collaboration_score": 65,
+    "mentor_score": 75,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-066",
+    "full_name": "Diya Reddy",
+    "designation": "HR Business Partner",
+    "department": "HR",
+    "office_location": "Delhi",
+    "experience_years": 5,
+    "skills": [
+      "Talent Management",
+      "Recruiting",
+      "Employee Relations",
+      "Communication",
+      "Program Management",
+      "Learning & Development"
+    ],
+    "certifications": [
+      "HR Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 49,
+    "trust_score": 90,
+    "collaboration_score": 71,
+    "mentor_score": 79,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-067",
+    "full_name": "Varun Reddy",
+    "designation": "Talent Partner",
+    "department": "HR",
+    "office_location": "Delhi",
+    "experience_years": 8,
+    "skills": [
+      "Recruiting",
+      "Employee Relations",
+      "Learning & Development",
+      "Communication",
+      "Program Management",
+      "Mentoring"
+    ],
+    "certifications": [
+      "HR Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "availability": "limited",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 56,
+    "trust_score": 95,
+    "collaboration_score": 77,
+    "mentor_score": 83,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-068",
+    "full_name": "Sneha Reddy",
+    "designation": "Talent Partner",
+    "department": "HR",
+    "office_location": "Delhi",
+    "experience_years": 11,
+    "skills": [
+      "Employee Relations",
+      "Learning & Development",
+      "Mentoring",
+      "Communication",
+      "Program Management",
+      "Talent Management"
+    ],
+    "certifications": [
+      "HR Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 63,
+    "trust_score": 72,
+    "collaboration_score": 83,
+    "mentor_score": 87,
+    "communication_style": "Concise and direct",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-069",
+    "full_name": "Aditya Reddy",
+    "designation": "Security Architect",
+    "department": "Security",
+    "office_location": "Chennai",
+    "experience_years": 14,
+    "skills": [
+      "Cloud Security",
+      "IAM",
+      "Threat Modeling",
+      "Communication",
+      "Program Management",
+      "Incident Response"
+    ],
+    "certifications": [
+      "Security Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 70,
+    "trust_score": 77,
+    "collaboration_score": 89,
+    "mentor_score": 91,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-070",
+    "full_name": "Pooja Reddy",
+    "designation": "Security Engineer",
+    "department": "Security",
+    "office_location": "Chennai",
+    "experience_years": 2,
+    "skills": [
+      "IAM",
+      "Threat Modeling",
+      "Incident Response",
+      "Communication",
+      "Program Management",
+      "Compliance"
+    ],
+    "certifications": [
+      "Security Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 77,
+    "trust_score": 82,
+    "collaboration_score": 65,
+    "mentor_score": 60,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-071",
+    "full_name": "Krish Reddy",
+    "designation": "Security Engineer",
+    "department": "Security",
+    "office_location": "Chennai",
+    "experience_years": 5,
+    "skills": [
+      "Threat Modeling",
+      "Incident Response",
+      "Compliance",
+      "Communication",
+      "Program Management",
+      "Cloud Security"
+    ],
+    "certifications": [
+      "Security Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 84,
+    "trust_score": 87,
+    "collaboration_score": 71,
+    "mentor_score": 64,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-072",
+    "full_name": "Riya Reddy",
+    "designation": "Senior Security Engineer",
+    "department": "Security",
+    "office_location": "Chennai",
+    "experience_years": 8,
+    "skills": [
+      "Incident Response",
+      "Compliance",
+      "Cloud Security",
+      "Communication",
+      "Program Management",
+      "IAM"
+    ],
+    "certifications": [
+      "Security Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "availability": "limited",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 35,
+    "trust_score": 92,
+    "collaboration_score": 77,
+    "mentor_score": 68,
+    "communication_style": "Concise and direct",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-073",
+    "full_name": "Manav Reddy",
+    "designation": "Senior Security Engineer",
+    "department": "Security",
+    "office_location": "Chennai",
+    "experience_years": 11,
+    "skills": [
+      "Compliance",
+      "Cloud Security",
+      "IAM",
+      "Communication",
+      "Program Management",
+      "Threat Modeling"
+    ],
+    "certifications": [
+      "Security Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 42,
+    "trust_score": 69,
+    "collaboration_score": 83,
+    "mentor_score": 72,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-074",
+    "full_name": "Shreya Reddy",
+    "designation": "Security Architect",
+    "department": "Security",
+    "office_location": "Chennai",
+    "experience_years": 14,
+    "skills": [
+      "Cloud Security",
+      "IAM",
+      "Threat Modeling",
+      "Communication",
+      "Program Management",
+      "Incident Response"
+    ],
+    "certifications": [
+      "Security Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 49,
+    "trust_score": 74,
+    "collaboration_score": 89,
+    "mentor_score": 76,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-075",
+    "full_name": "Yash Reddy",
+    "designation": "Security Engineer",
+    "department": "Security",
+    "office_location": "Chennai",
+    "experience_years": 2,
+    "skills": [
+      "IAM",
+      "Threat Modeling",
+      "Incident Response",
+      "Communication",
+      "Program Management",
+      "Compliance"
+    ],
+    "certifications": [
+      "Security Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 56,
+    "trust_score": 79,
+    "collaboration_score": 65,
+    "mentor_score": 80,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-076",
+    "full_name": "Aarav Iyer",
+    "designation": "Security Engineer",
+    "department": "Security",
+    "office_location": "Chennai",
+    "experience_years": 5,
+    "skills": [
+      "Threat Modeling",
+      "Incident Response",
+      "Compliance",
+      "Communication",
+      "Program Management",
+      "Cloud Security"
+    ],
+    "certifications": [
+      "Security Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 63,
+    "trust_score": 84,
+    "collaboration_score": 71,
+    "mentor_score": 84,
+    "communication_style": "Concise and direct",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-077",
+    "full_name": "Ishita Iyer",
+    "designation": "Senior Security Engineer",
+    "department": "Security",
+    "office_location": "Chennai",
+    "experience_years": 8,
+    "skills": [
+      "Incident Response",
+      "Compliance",
+      "Cloud Security",
+      "Communication",
+      "Program Management",
+      "IAM"
+    ],
+    "certifications": [
+      "Security Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "availability": "limited",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 70,
+    "trust_score": 89,
+    "collaboration_score": 77,
+    "mentor_score": 88,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-078",
+    "full_name": "Rohan Iyer",
+    "designation": "Senior Security Engineer",
+    "department": "Security",
+    "office_location": "Chennai",
+    "experience_years": 11,
+    "skills": [
+      "Compliance",
+      "Cloud Security",
+      "IAM",
+      "Communication",
+      "Program Management",
+      "Threat Modeling"
+    ],
+    "certifications": [
+      "Security Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 77,
+    "trust_score": 94,
+    "collaboration_score": 83,
+    "mentor_score": 92,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-079",
+    "full_name": "Meera Iyer",
+    "designation": "ML Engineer",
+    "department": "Data Science",
+    "office_location": "Bengaluru",
+    "experience_years": 14,
+    "skills": [
+      "Machine Learning",
+      "Data Engineering",
+      "SQL",
+      "Communication",
+      "Program Management",
+      "MLOps"
+    ],
+    "certifications": [
+      "Data Science Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 84,
+    "trust_score": 71,
+    "collaboration_score": 89,
+    "mentor_score": 61,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-080",
+    "full_name": "Karan Iyer",
+    "designation": "Data Scientist",
+    "department": "Data Science",
+    "office_location": "Bengaluru",
+    "experience_years": 2,
+    "skills": [
+      "Data Engineering",
+      "SQL",
+      "MLOps",
+      "Communication",
+      "Program Management",
+      "Experimentation"
+    ],
+    "certifications": [
+      "Data Science Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 35,
+    "trust_score": 76,
+    "collaboration_score": 65,
+    "mentor_score": 65,
+    "communication_style": "Concise and direct",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-081",
+    "full_name": "Ananya Iyer",
+    "designation": "Data Scientist",
+    "department": "Data Science",
+    "office_location": "Bengaluru",
+    "experience_years": 5,
+    "skills": [
+      "SQL",
+      "MLOps",
+      "Experimentation",
+      "Communication",
+      "Program Management",
+      "Machine Learning"
+    ],
+    "certifications": [
+      "Data Science Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 42,
+    "trust_score": 81,
+    "collaboration_score": 71,
+    "mentor_score": 69,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-082",
+    "full_name": "Vikram Iyer",
+    "designation": "Senior Data Scientist",
+    "department": "Data Science",
+    "office_location": "Bengaluru",
+    "experience_years": 8,
+    "skills": [
+      "MLOps",
+      "Experimentation",
+      "Machine Learning",
+      "Communication",
+      "Program Management",
+      "Data Engineering"
+    ],
+    "certifications": [
+      "Data Science Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "availability": "limited",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 49,
+    "trust_score": 86,
+    "collaboration_score": 77,
+    "mentor_score": 73,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-083",
+    "full_name": "Nisha Iyer",
+    "designation": "Senior Data Scientist",
+    "department": "Data Science",
+    "office_location": "Bengaluru",
+    "experience_years": 11,
+    "skills": [
+      "Experimentation",
+      "Machine Learning",
+      "Data Engineering",
+      "Communication",
+      "Program Management",
+      "SQL"
+    ],
+    "certifications": [
+      "Data Science Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 56,
+    "trust_score": 91,
+    "collaboration_score": 83,
+    "mentor_score": 77,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-084",
+    "full_name": "Arjun Iyer",
+    "designation": "ML Engineer",
+    "department": "Data Science",
+    "office_location": "Bengaluru",
+    "experience_years": 14,
+    "skills": [
+      "Machine Learning",
+      "Data Engineering",
+      "SQL",
+      "Communication",
+      "Program Management",
+      "MLOps"
+    ],
+    "certifications": [
+      "Data Science Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 63,
+    "trust_score": 68,
+    "collaboration_score": 89,
+    "mentor_score": 81,
+    "communication_style": "Concise and direct",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-085",
+    "full_name": "Priya Iyer",
+    "designation": "Data Scientist",
+    "department": "Data Science",
+    "office_location": "Bengaluru",
+    "experience_years": 2,
+    "skills": [
+      "Data Engineering",
+      "SQL",
+      "MLOps",
+      "Communication",
+      "Program Management",
+      "Experimentation"
+    ],
+    "certifications": [
+      "Data Science Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 70,
+    "trust_score": 73,
+    "collaboration_score": 65,
+    "mentor_score": 85,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-086",
+    "full_name": "Neel Iyer",
+    "designation": "Data Scientist",
+    "department": "Data Science",
+    "office_location": "Bengaluru",
+    "experience_years": 5,
+    "skills": [
+      "SQL",
+      "MLOps",
+      "Experimentation",
+      "Communication",
+      "Program Management",
+      "Machine Learning"
+    ],
+    "certifications": [
+      "Data Science Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 77,
+    "trust_score": 78,
+    "collaboration_score": 71,
+    "mentor_score": 89,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-087",
+    "full_name": "Kavya Iyer",
+    "designation": "Senior Data Scientist",
+    "department": "Data Science",
+    "office_location": "Bengaluru",
+    "experience_years": 8,
+    "skills": [
+      "MLOps",
+      "Experimentation",
+      "Machine Learning",
+      "Communication",
+      "Program Management",
+      "Data Engineering"
+    ],
+    "certifications": [
+      "Data Science Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "availability": "limited",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 84,
+    "trust_score": 83,
+    "collaboration_score": 77,
+    "mentor_score": 93,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-088",
+    "full_name": "Siddharth Iyer",
+    "designation": "Senior Data Scientist",
+    "department": "Data Science",
+    "office_location": "Bengaluru",
+    "experience_years": 11,
+    "skills": [
+      "Experimentation",
+      "Machine Learning",
+      "Data Engineering",
+      "Communication",
+      "Program Management",
+      "SQL"
+    ],
+    "certifications": [
+      "Data Science Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 35,
+    "trust_score": 88,
+    "collaboration_score": 83,
+    "mentor_score": 62,
+    "communication_style": "Concise and direct",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-089",
+    "full_name": "Aisha Iyer",
+    "designation": "ML Engineer",
+    "department": "Data Science",
+    "office_location": "Bengaluru",
+    "experience_years": 14,
+    "skills": [
+      "Machine Learning",
+      "Data Engineering",
+      "SQL",
+      "Communication",
+      "Program Management",
+      "MLOps"
+    ],
+    "certifications": [
+      "Data Science Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 42,
+    "trust_score": 93,
+    "collaboration_score": 89,
+    "mentor_score": 66,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-090",
+    "full_name": "Rahul Iyer",
+    "designation": "Data Scientist",
+    "department": "Data Science",
+    "office_location": "Bengaluru",
+    "experience_years": 2,
+    "skills": [
+      "Data Engineering",
+      "SQL",
+      "MLOps",
+      "Communication",
+      "Program Management",
+      "Experimentation"
+    ],
+    "certifications": [
+      "Data Science Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 49,
+    "trust_score": 70,
+    "collaboration_score": 65,
+    "mentor_score": 70,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-091",
+    "full_name": "Diya Iyer",
+    "designation": "Support Engineer",
+    "department": "Support",
+    "office_location": "Noida",
+    "experience_years": 5,
+    "skills": [
+      "Customer Support",
+      "Troubleshooting",
+      "Incident Management",
+      "Communication",
+      "Program Management",
+      "Knowledge Base"
+    ],
+    "certifications": [
+      "Support Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 56,
+    "trust_score": 75,
+    "collaboration_score": 71,
+    "mentor_score": 74,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-092",
+    "full_name": "Varun Iyer",
+    "designation": "Senior Support Engineer",
+    "department": "Support",
+    "office_location": "Noida",
+    "experience_years": 8,
+    "skills": [
+      "Troubleshooting",
+      "Incident Management",
+      "Knowledge Base",
+      "Communication",
+      "Program Management",
+      "Escalation Management"
+    ],
+    "certifications": [
+      "Support Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "availability": "limited",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 63,
+    "trust_score": 80,
+    "collaboration_score": 77,
+    "mentor_score": 78,
+    "communication_style": "Concise and direct",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-093",
+    "full_name": "Sneha Iyer",
+    "designation": "Senior Support Engineer",
+    "department": "Support",
+    "office_location": "Noida",
+    "experience_years": 11,
+    "skills": [
+      "Incident Management",
+      "Knowledge Base",
+      "Escalation Management",
+      "Communication",
+      "Program Management",
+      "Customer Support"
+    ],
+    "certifications": [
+      "Support Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 70,
+    "trust_score": 85,
+    "collaboration_score": 83,
+    "mentor_score": 82,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-094",
+    "full_name": "Aditya Iyer",
+    "designation": "Support Operations Lead",
+    "department": "Support",
+    "office_location": "Noida",
+    "experience_years": 14,
+    "skills": [
+      "Knowledge Base",
+      "Escalation Management",
+      "Customer Support",
+      "Communication",
+      "Program Management",
+      "Troubleshooting"
+    ],
+    "certifications": [
+      "Support Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 77,
+    "trust_score": 90,
+    "collaboration_score": 89,
+    "mentor_score": 86,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-095",
+    "full_name": "Pooja Iyer",
+    "designation": "Support Engineer",
+    "department": "Support",
+    "office_location": "Noida",
+    "experience_years": 2,
+    "skills": [
+      "Escalation Management",
+      "Customer Support",
+      "Troubleshooting",
+      "Communication",
+      "Program Management",
+      "Incident Management"
+    ],
+    "certifications": [
+      "Support Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 84,
+    "trust_score": 95,
+    "collaboration_score": 65,
+    "mentor_score": 90,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-096",
+    "full_name": "Krish Iyer",
+    "designation": "Support Engineer",
+    "department": "Support",
+    "office_location": "Noida",
+    "experience_years": 5,
+    "skills": [
+      "Customer Support",
+      "Troubleshooting",
+      "Incident Management",
+      "Communication",
+      "Program Management",
+      "Knowledge Base"
+    ],
+    "certifications": [
+      "Support Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Kannada"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 35,
+    "trust_score": 72,
+    "collaboration_score": 71,
+    "mentor_score": 94,
+    "communication_style": "Concise and direct",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-097",
+    "full_name": "Riya Iyer",
+    "designation": "Senior Support Engineer",
+    "department": "Support",
+    "office_location": "Noida",
+    "experience_years": 8,
+    "skills": [
+      "Troubleshooting",
+      "Incident Management",
+      "Knowledge Base",
+      "Communication",
+      "Program Management",
+      "Escalation Management"
+    ],
+    "certifications": [
+      "Support Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Telugu"
+    ],
+    "availability": "limited",
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 42,
+    "trust_score": 77,
+    "collaboration_score": 77,
+    "mentor_score": 63,
+    "communication_style": "Structured and collaborative",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-098",
+    "full_name": "Manav Iyer",
+    "designation": "Senior Support Engineer",
+    "department": "Support",
+    "office_location": "Noida",
+    "experience_years": 11,
+    "skills": [
+      "Incident Management",
+      "Knowledge Base",
+      "Escalation Management",
+      "Communication",
+      "Program Management",
+      "Customer Support"
+    ],
+    "certifications": [
+      "Support Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 49,
+    "trust_score": 82,
+    "collaboration_score": 83,
+    "mentor_score": 67,
+    "communication_style": "Analytical and calm",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-099",
+    "full_name": "Shreya Iyer",
+    "designation": "Support Operations Lead",
+    "department": "Support",
+    "office_location": "Noida",
+    "experience_years": 14,
+    "skills": [
+      "Knowledge Base",
+      "Escalation Management",
+      "Customer Support",
+      "Communication",
+      "Program Management",
+      "Troubleshooting"
+    ],
+    "certifications": [
+      "Support Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Marathi",
+      "Hindi"
+    ],
+    "availability": "busy",
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 56,
+    "trust_score": 87,
+    "collaboration_score": 89,
+    "mentor_score": 71,
+    "communication_style": "Facilitative and empathetic",
+    "completed_projects": [],
+    "current_projects": []
+  },
+  {
+    "employee_id": "emp-100",
+    "full_name": "Yash Iyer",
+    "designation": "Support Engineer",
+    "department": "Support",
+    "office_location": "Noida",
+    "experience_years": 2,
+    "skills": [
+      "Escalation Management",
+      "Customer Support",
+      "Troubleshooting",
+      "Communication",
+      "Program Management",
+      "Incident Management"
+    ],
+    "certifications": [
+      "Support Professional Certification"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "availability": "available",
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    },
+    "current_workload": 63,
+    "trust_score": 92,
+    "collaboration_score": 65,
+    "mentor_score": 75,
+    "communication_style": "Concise and direct",
+    "completed_projects": [],
+    "current_projects": []
+  }
+]

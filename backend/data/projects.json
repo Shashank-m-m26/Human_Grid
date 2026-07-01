@@ -1,1 +1,554 @@
-[]
+[
+  {
+    "project_id": "proj-001",
+    "project_name": "Nimbus Access Program 1",
+    "description": "Identity modernization for enterprise admin workflows.",
+    "technologies": [
+      "IAM",
+      "Cloud Security",
+      "React",
+      "FastAPI"
+    ],
+    "team_members": [
+      "emp-001",
+      "emp-002",
+      "emp-003",
+      "emp-004",
+      "emp-005",
+      "emp-006"
+    ],
+    "project_status": "Active",
+    "completion_date": null,
+    "business_domain": "Security"
+  },
+  {
+    "project_id": "proj-002",
+    "project_name": "Pulse Support Hub Program 1",
+    "description": "Unified knowledge and escalation platform.",
+    "technologies": [
+      "Customer Support",
+      "Knowledge Base",
+      "FastAPI",
+      "Analytics"
+    ],
+    "team_members": [
+      "emp-001",
+      "emp-002",
+      "emp-005",
+      "emp-006",
+      "emp-007",
+      "emp-008",
+      "emp-011"
+    ],
+    "project_status": "Completed",
+    "completion_date": "2026-02-02",
+    "business_domain": "Support"
+  },
+  {
+    "project_id": "proj-003",
+    "project_name": "Atlas ML Workbench Program 1",
+    "description": "Model experimentation workflow for data science teams.",
+    "technologies": [
+      "Machine Learning",
+      "MLOps",
+      "Python",
+      "Kubernetes"
+    ],
+    "team_members": [
+      "emp-001",
+      "emp-004",
+      "emp-005",
+      "emp-006",
+      "emp-007",
+      "emp-010",
+      "emp-011",
+      "emp-012"
+    ],
+    "project_status": "Planning",
+    "completion_date": null,
+    "business_domain": "Data Science"
+  },
+  {
+    "project_id": "proj-004",
+    "project_name": "Forge CI Platform Program 1",
+    "description": "Self-service deployment platform.",
+    "technologies": [
+      "CI/CD",
+      "Terraform",
+      "Kubernetes",
+      "Observability"
+    ],
+    "team_members": [
+      "emp-017",
+      "emp-018",
+      "emp-019",
+      "emp-020",
+      "emp-021",
+      "emp-022"
+    ],
+    "project_status": "Active",
+    "completion_date": null,
+    "business_domain": "DevOps"
+  },
+  {
+    "project_id": "proj-005",
+    "project_name": "Northstar Insights Program 1",
+    "description": "Product analytics suite.",
+    "technologies": [
+      "SQL",
+      "Analytics",
+      "Experimentation",
+      "React"
+    ],
+    "team_members": [
+      "emp-002",
+      "emp-003",
+      "emp-004",
+      "emp-005",
+      "emp-008",
+      "emp-009",
+      "emp-010"
+    ],
+    "project_status": "Completed",
+    "completion_date": "2026-05-05",
+    "business_domain": "Product"
+  },
+  {
+    "project_id": "proj-006",
+    "project_name": "Canvas Design System Program 1",
+    "description": "Shared UI system for product surfaces.",
+    "technologies": [
+      "Design Systems",
+      "Figma",
+      "React",
+      "Documentation"
+    ],
+    "team_members": [
+      "emp-002",
+      "emp-003",
+      "emp-004",
+      "emp-005",
+      "emp-008",
+      "emp-009",
+      "emp-010",
+      "emp-011"
+    ],
+    "project_status": "Planning",
+    "completion_date": null,
+    "business_domain": "Design"
+  },
+  {
+    "project_id": "proj-007",
+    "project_name": "Sentinel Response Program 1",
+    "description": "Security incident response automation.",
+    "technologies": [
+      "Incident Response",
+      "Observability",
+      "Python",
+      "Cloud Security"
+    ],
+    "team_members": [
+      "emp-001",
+      "emp-004",
+      "emp-005",
+      "emp-006",
+      "emp-007",
+      "emp-010"
+    ],
+    "project_status": "Active",
+    "completion_date": null,
+    "business_domain": "Security"
+  },
+  {
+    "project_id": "proj-008",
+    "project_name": "Velocity QA Grid Program 1",
+    "description": "Automation coverage and API quality framework.",
+    "technologies": [
+      "Test Automation",
+      "Playwright",
+      "API Testing",
+      "Documentation"
+    ],
+    "team_members": [
+      "emp-039",
+      "emp-040",
+      "emp-041",
+      "emp-042",
+      "emp-043",
+      "emp-044",
+      "emp-045"
+    ],
+    "project_status": "Completed",
+    "completion_date": "2026-02-08",
+    "business_domain": "QA"
+  },
+  {
+    "project_id": "proj-009",
+    "project_name": "Talent Orbit Program 1",
+    "description": "Employee growth and mentoring workflows.",
+    "technologies": [
+      "Learning & Development",
+      "Mentoring",
+      "Analytics",
+      "Communication"
+    ],
+    "team_members": [
+      "emp-001",
+      "emp-002",
+      "emp-003",
+      "emp-004",
+      "emp-005",
+      "emp-006",
+      "emp-007",
+      "emp-008"
+    ],
+    "project_status": "Planning",
+    "completion_date": null,
+    "business_domain": "HR"
+  },
+  {
+    "project_id": "proj-010",
+    "project_name": "Mercury Commerce API Program 1",
+    "description": "Scalable partner API platform.",
+    "technologies": [
+      "FastAPI",
+      "Microservices",
+      "AWS",
+      "System Design"
+    ],
+    "team_members": [
+      "emp-001",
+      "emp-002",
+      "emp-003",
+      "emp-004",
+      "emp-005",
+      "emp-006"
+    ],
+    "project_status": "Active",
+    "completion_date": null,
+    "business_domain": "Engineering"
+  },
+  {
+    "project_id": "proj-011",
+    "project_name": "Nimbus Access Program 1",
+    "description": "Identity modernization for enterprise admin workflows.",
+    "technologies": [
+      "IAM",
+      "Cloud Security",
+      "React",
+      "FastAPI"
+    ],
+    "team_members": [
+      "emp-001",
+      "emp-002",
+      "emp-003",
+      "emp-004",
+      "emp-005",
+      "emp-006",
+      "emp-007"
+    ],
+    "project_status": "Completed",
+    "completion_date": "2026-05-11",
+    "business_domain": "Security"
+  },
+  {
+    "project_id": "proj-012",
+    "project_name": "Pulse Support Hub Program 1",
+    "description": "Unified knowledge and escalation platform.",
+    "technologies": [
+      "Customer Support",
+      "Knowledge Base",
+      "FastAPI",
+      "Analytics"
+    ],
+    "team_members": [
+      "emp-001",
+      "emp-002",
+      "emp-005",
+      "emp-006",
+      "emp-007",
+      "emp-008",
+      "emp-011",
+      "emp-012"
+    ],
+    "project_status": "Planning",
+    "completion_date": null,
+    "business_domain": "Support"
+  },
+  {
+    "project_id": "proj-013",
+    "project_name": "Atlas ML Workbench Initiative 2",
+    "description": "Model experimentation workflow for data science teams.",
+    "technologies": [
+      "Machine Learning",
+      "MLOps",
+      "Python",
+      "Kubernetes"
+    ],
+    "team_members": [
+      "emp-001",
+      "emp-004",
+      "emp-005",
+      "emp-006",
+      "emp-007",
+      "emp-010"
+    ],
+    "project_status": "Active",
+    "completion_date": null,
+    "business_domain": "Data Science"
+  },
+  {
+    "project_id": "proj-014",
+    "project_name": "Forge CI Platform Initiative 2",
+    "description": "Self-service deployment platform.",
+    "technologies": [
+      "CI/CD",
+      "Terraform",
+      "Kubernetes",
+      "Observability"
+    ],
+    "team_members": [
+      "emp-017",
+      "emp-018",
+      "emp-019",
+      "emp-020",
+      "emp-021",
+      "emp-022",
+      "emp-023"
+    ],
+    "project_status": "Completed",
+    "completion_date": "2026-02-14",
+    "business_domain": "DevOps"
+  },
+  {
+    "project_id": "proj-015",
+    "project_name": "Northstar Insights Initiative 2",
+    "description": "Product analytics suite.",
+    "technologies": [
+      "SQL",
+      "Analytics",
+      "Experimentation",
+      "React"
+    ],
+    "team_members": [
+      "emp-002",
+      "emp-003",
+      "emp-004",
+      "emp-005",
+      "emp-008",
+      "emp-009",
+      "emp-010",
+      "emp-011"
+    ],
+    "project_status": "Planning",
+    "completion_date": null,
+    "business_domain": "Product"
+  },
+  {
+    "project_id": "proj-016",
+    "project_name": "Canvas Design System Initiative 2",
+    "description": "Shared UI system for product surfaces.",
+    "technologies": [
+      "Design Systems",
+      "Figma",
+      "React",
+      "Documentation"
+    ],
+    "team_members": [
+      "emp-002",
+      "emp-003",
+      "emp-004",
+      "emp-005",
+      "emp-008",
+      "emp-009"
+    ],
+    "project_status": "Active",
+    "completion_date": null,
+    "business_domain": "Design"
+  },
+  {
+    "project_id": "proj-017",
+    "project_name": "Sentinel Response Initiative 2",
+    "description": "Security incident response automation.",
+    "technologies": [
+      "Incident Response",
+      "Observability",
+      "Python",
+      "Cloud Security"
+    ],
+    "team_members": [
+      "emp-001",
+      "emp-004",
+      "emp-005",
+      "emp-006",
+      "emp-007",
+      "emp-010",
+      "emp-011"
+    ],
+    "project_status": "Completed",
+    "completion_date": "2026-05-17",
+    "business_domain": "Security"
+  },
+  {
+    "project_id": "proj-018",
+    "project_name": "Velocity QA Grid Initiative 2",
+    "description": "Automation coverage and API quality framework.",
+    "technologies": [
+      "Test Automation",
+      "Playwright",
+      "API Testing",
+      "Documentation"
+    ],
+    "team_members": [
+      "emp-039",
+      "emp-040",
+      "emp-041",
+      "emp-042",
+      "emp-043",
+      "emp-044",
+      "emp-045",
+      "emp-046"
+    ],
+    "project_status": "Planning",
+    "completion_date": null,
+    "business_domain": "QA"
+  },
+  {
+    "project_id": "proj-019",
+    "project_name": "Talent Orbit Initiative 2",
+    "description": "Employee growth and mentoring workflows.",
+    "technologies": [
+      "Learning & Development",
+      "Mentoring",
+      "Analytics",
+      "Communication"
+    ],
+    "team_members": [
+      "emp-001",
+      "emp-002",
+      "emp-003",
+      "emp-004",
+      "emp-005",
+      "emp-006"
+    ],
+    "project_status": "Active",
+    "completion_date": null,
+    "business_domain": "HR"
+  },
+  {
+    "project_id": "proj-020",
+    "project_name": "Mercury Commerce API Initiative 2",
+    "description": "Scalable partner API platform.",
+    "technologies": [
+      "FastAPI",
+      "Microservices",
+      "AWS",
+      "System Design"
+    ],
+    "team_members": [
+      "emp-001",
+      "emp-002",
+      "emp-003",
+      "emp-004",
+      "emp-005",
+      "emp-006",
+      "emp-007"
+    ],
+    "project_status": "Completed",
+    "completion_date": "2026-02-20",
+    "business_domain": "Engineering"
+  },
+  {
+    "project_id": "proj-021",
+    "project_name": "Nimbus Access Initiative 2",
+    "description": "Identity modernization for enterprise admin workflows.",
+    "technologies": [
+      "IAM",
+      "Cloud Security",
+      "React",
+      "FastAPI"
+    ],
+    "team_members": [
+      "emp-001",
+      "emp-002",
+      "emp-003",
+      "emp-004",
+      "emp-005",
+      "emp-006",
+      "emp-007",
+      "emp-008"
+    ],
+    "project_status": "Planning",
+    "completion_date": null,
+    "business_domain": "Security"
+  },
+  {
+    "project_id": "proj-022",
+    "project_name": "Pulse Support Hub Initiative 2",
+    "description": "Unified knowledge and escalation platform.",
+    "technologies": [
+      "Customer Support",
+      "Knowledge Base",
+      "FastAPI",
+      "Analytics"
+    ],
+    "team_members": [
+      "emp-001",
+      "emp-002",
+      "emp-005",
+      "emp-006",
+      "emp-007",
+      "emp-008"
+    ],
+    "project_status": "Active",
+    "completion_date": null,
+    "business_domain": "Support"
+  },
+  {
+    "project_id": "proj-023",
+    "project_name": "Atlas ML Workbench Initiative 2",
+    "description": "Model experimentation workflow for data science teams.",
+    "technologies": [
+      "Machine Learning",
+      "MLOps",
+      "Python",
+      "Kubernetes"
+    ],
+    "team_members": [
+      "emp-001",
+      "emp-004",
+      "emp-005",
+      "emp-006",
+      "emp-007",
+      "emp-010",
+      "emp-011"
+    ],
+    "project_status": "Completed",
+    "completion_date": "2026-05-23",
+    "business_domain": "Data Science"
+  },
+  {
+    "project_id": "proj-024",
+    "project_name": "Forge CI Platform Initiative 2",
+    "description": "Self-service deployment platform.",
+    "technologies": [
+      "CI/CD",
+      "Terraform",
+      "Kubernetes",
+      "Observability"
+    ],
+    "team_members": [
+      "emp-017",
+      "emp-018",
+      "emp-019",
+      "emp-020",
+      "emp-021",
+      "emp-022",
+      "emp-023",
+      "emp-024"
+    ],
+    "project_status": "Planning",
+    "completion_date": null,
+    "business_domain": "DevOps"
+  }
+]

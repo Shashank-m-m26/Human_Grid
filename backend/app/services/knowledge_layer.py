@@ -182,6 +182,11 @@ class KnowledgeLayerService:
         for calendar_entry in graph.calendar:
             if calendar_entry.employee_id not in employee_ids:
                 raise DataValidationError(f"Calendar entry references invalid employee {calendar_entry.employee_id}.")
+        for notification in graph.notifications:
+            if notification.employee_id not in employee_ids:
+                raise DataValidationError(f"Notification {notification.notification_id} references invalid employee {notification.employee_id}.")
+            if notification.mission_id and not any(mission.get("mission_id") == notification.mission_id for mission in graph.missions):
+                raise DataValidationError(f"Notification {notification.notification_id} references invalid mission {notification.mission_id}.")
         for mission in graph.missions:
             requester_id = mission.get("requester_id")
             if requester_id and requester_id not in employee_ids:

@@ -1,1 +1,752 @@
-[]
+[
+  {
+    "skill_name": "Communication",
+    "category": "Cross Functional",
+    "related_skills": [
+      "Stakeholder Management",
+      "Documentation",
+      "Mentoring"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Program Management",
+    "category": "Cross Functional",
+    "related_skills": [
+      "Stakeholder Management",
+      "Roadmapping",
+      "Communication"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Documentation",
+    "category": "Cross Functional",
+    "related_skills": [
+      "Knowledge Base",
+      "Communication",
+      "Compliance"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Python",
+    "category": "Engineering",
+    "related_skills": [
+      "FastAPI",
+      "Microservices",
+      "System Design"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "FastAPI",
+    "category": "Engineering",
+    "related_skills": [
+      "Python",
+      "Microservices",
+      "System Design"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Microservices",
+    "category": "Engineering",
+    "related_skills": [
+      "Python",
+      "FastAPI",
+      "System Design"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "System Design",
+    "category": "Engineering",
+    "related_skills": [
+      "Python",
+      "FastAPI",
+      "Microservices"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "React",
+    "category": "Engineering",
+    "related_skills": [
+      "Python",
+      "FastAPI",
+      "Microservices"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "APIs",
+    "category": "Engineering",
+    "related_skills": [
+      "Python",
+      "FastAPI",
+      "Microservices"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Kubernetes",
+    "category": "DevOps",
+    "related_skills": [
+      "Terraform",
+      "CI/CD",
+      "AWS"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Terraform",
+    "category": "DevOps",
+    "related_skills": [
+      "Kubernetes",
+      "CI/CD",
+      "AWS"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "CI/CD",
+    "category": "DevOps",
+    "related_skills": [
+      "Kubernetes",
+      "Terraform",
+      "AWS"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "AWS",
+    "category": "DevOps",
+    "related_skills": [
+      "Kubernetes",
+      "Terraform",
+      "CI/CD"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Docker",
+    "category": "DevOps",
+    "related_skills": [
+      "Kubernetes",
+      "Terraform",
+      "CI/CD"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Observability",
+    "category": "DevOps",
+    "related_skills": [
+      "Kubernetes",
+      "Terraform",
+      "CI/CD"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Product Strategy",
+    "category": "Product",
+    "related_skills": [
+      "Roadmapping",
+      "Stakeholder Management",
+      "Customer Research"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Roadmapping",
+    "category": "Product",
+    "related_skills": [
+      "Product Strategy",
+      "Stakeholder Management",
+      "Customer Research"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Stakeholder Management",
+    "category": "Product",
+    "related_skills": [
+      "Product Strategy",
+      "Roadmapping",
+      "Customer Research"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Customer Research",
+    "category": "Product",
+    "related_skills": [
+      "Product Strategy",
+      "Roadmapping",
+      "Stakeholder Management"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Analytics",
+    "category": "Product",
+    "related_skills": [
+      "Product Strategy",
+      "Roadmapping",
+      "Stakeholder Management"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Test Automation",
+    "category": "QA",
+    "related_skills": [
+      "Selenium",
+      "Playwright",
+      "API Testing"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Selenium",
+    "category": "QA",
+    "related_skills": [
+      "Test Automation",
+      "Playwright",
+      "API Testing"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Playwright",
+    "category": "QA",
+    "related_skills": [
+      "Test Automation",
+      "Selenium",
+      "API Testing"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "API Testing",
+    "category": "QA",
+    "related_skills": [
+      "Test Automation",
+      "Selenium",
+      "Playwright"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Quality Engineering",
+    "category": "QA",
+    "related_skills": [
+      "Test Automation",
+      "Selenium",
+      "Playwright"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Figma",
+    "category": "Design",
+    "related_skills": [
+      "UX Research",
+      "Design Systems",
+      "Prototyping"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "UX Research",
+    "category": "Design",
+    "related_skills": [
+      "Figma",
+      "Design Systems",
+      "Prototyping"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Design Systems",
+    "category": "Design",
+    "related_skills": [
+      "Figma",
+      "UX Research",
+      "Prototyping"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Prototyping",
+    "category": "Design",
+    "related_skills": [
+      "Figma",
+      "UX Research",
+      "Design Systems"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Interaction Design",
+    "category": "Design",
+    "related_skills": [
+      "Figma",
+      "UX Research",
+      "Design Systems"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Talent Management",
+    "category": "HR",
+    "related_skills": [
+      "Recruiting",
+      "Employee Relations",
+      "Learning & Development"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Recruiting",
+    "category": "HR",
+    "related_skills": [
+      "Talent Management",
+      "Employee Relations",
+      "Learning & Development"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Employee Relations",
+    "category": "HR",
+    "related_skills": [
+      "Talent Management",
+      "Recruiting",
+      "Learning & Development"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Learning & Development",
+    "category": "HR",
+    "related_skills": [
+      "Talent Management",
+      "Recruiting",
+      "Employee Relations"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Mentoring",
+    "category": "HR",
+    "related_skills": [
+      "Talent Management",
+      "Recruiting",
+      "Employee Relations"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Cloud Security",
+    "category": "Security",
+    "related_skills": [
+      "IAM",
+      "Threat Modeling",
+      "Incident Response"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "IAM",
+    "category": "Security",
+    "related_skills": [
+      "Cloud Security",
+      "Threat Modeling",
+      "Incident Response"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Threat Modeling",
+    "category": "Security",
+    "related_skills": [
+      "Cloud Security",
+      "IAM",
+      "Incident Response"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Incident Response",
+    "category": "Security",
+    "related_skills": [
+      "Cloud Security",
+      "IAM",
+      "Threat Modeling"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Compliance",
+    "category": "Security",
+    "related_skills": [
+      "Cloud Security",
+      "IAM",
+      "Threat Modeling"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Machine Learning",
+    "category": "Data Science",
+    "related_skills": [
+      "Data Engineering",
+      "SQL",
+      "MLOps"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Data Engineering",
+    "category": "Data Science",
+    "related_skills": [
+      "Machine Learning",
+      "SQL",
+      "MLOps"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "SQL",
+    "category": "Data Science",
+    "related_skills": [
+      "Machine Learning",
+      "Data Engineering",
+      "MLOps"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "MLOps",
+    "category": "Data Science",
+    "related_skills": [
+      "Machine Learning",
+      "Data Engineering",
+      "SQL"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Experimentation",
+    "category": "Data Science",
+    "related_skills": [
+      "Machine Learning",
+      "Data Engineering",
+      "SQL"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Customer Support",
+    "category": "Support",
+    "related_skills": [
+      "Troubleshooting",
+      "Incident Management",
+      "Knowledge Base"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Troubleshooting",
+    "category": "Support",
+    "related_skills": [
+      "Customer Support",
+      "Incident Management",
+      "Knowledge Base"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Incident Management",
+    "category": "Support",
+    "related_skills": [
+      "Customer Support",
+      "Troubleshooting",
+      "Knowledge Base"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Knowledge Base",
+    "category": "Support",
+    "related_skills": [
+      "Customer Support",
+      "Troubleshooting",
+      "Incident Management"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  },
+  {
+    "skill_name": "Escalation Management",
+    "category": "Support",
+    "related_skills": [
+      "Customer Support",
+      "Troubleshooting",
+      "Incident Management"
+    ],
+    "proficiency_levels": [
+      "Beginner",
+      "Intermediate",
+      "Advanced",
+      "Expert"
+    ]
+  }
+]

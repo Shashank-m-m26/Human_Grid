@@ -23,4 +23,9 @@ def healthcheck() -> dict[str, object]:
         "agent_count": len(bundle.agent_names),
         "adk_import_error": bundle.import_error,
         "knowledge_graph": summary,
+        "mcp_server": {
+            "name": "HumanGrid MCP Server",
+            "path": "/mcp",
+            "status": "mounted",
+        },
     }

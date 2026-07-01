@@ -95,6 +95,19 @@ class MissionEngineService:
             "coordination": coordination.model_dump(),
         }
         self.store.append_to_list("missions.json", record)
+        for offset, employee_id in enumerate(assigned_employee_ids[:3], start=1):
+            self.store.append_to_list(
+                "notifications.json",
+                {
+                    "notification_id": f"notif-{mission_id}-{offset}",
+                    "employee_id": employee_id,
+                    "mission_id": mission_id,
+                    "type": "Mission Assigned",
+                    "message": f"Mission {mission.title} assigned to {employee_id}.",
+                    "status": "delivered",
+                    "timestamp": created_at,
+                },
+            )
         log_event(
             "info",
             "mission_engine_orchestrated",

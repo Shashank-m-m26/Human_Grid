@@ -58,7 +58,8 @@ if Agent is not None:
             description="Extracts structured mission intent from the user request.",
             instruction=(
                 "You are the Intent Agent for HumanGrid. Interpret the mission request, "
-                "extract the objective, urgency, and collaboration need, and store a structured mission summary."
+                "extract the objective, urgency, and collaboration need, and store a structured mission summary. "
+                "You must not call MCP directly. Route operational needs back through the Mission Engine Root."
             ),
             output_key="intent_agent_output",
         )
@@ -70,7 +71,7 @@ if Agent is not None:
             description="Converts the mission into executable tasks.",
             instruction=(
                 "You are the Mission Planner Agent for HumanGrid. Break the mission into clear, executable tasks "
-                "that can be assigned to specialists."
+                "that can be assigned to specialists. You must not call MCP directly."
             ),
             output_key="mission_planner_output",
         )
@@ -82,7 +83,7 @@ if Agent is not None:
             description="Maps each mission task to the required capabilities.",
             instruction=(
                 "You are the Skill Mapper Agent for HumanGrid. Identify the skills, domains, and cross-functional "
-                "collaboration required for every mission task."
+                "collaboration required for every mission task. You must not call MCP directly."
             ),
             output_key="skill_mapper_output",
         )
@@ -91,10 +92,10 @@ if Agent is not None:
     def create_people_discovery_agent() -> Any:
         return _create_llm_agent(
             name="people_discovery_agent",
-            description="Discovers relevant candidates from the enterprise knowledge graph.",
+            description="Discovers relevant candidates from the enterprise knowledge graph through MCP.",
             instruction=(
                 "You are the People Discovery Agent for HumanGrid. Search across employees, projects, departments, "
-                "and skills to find the strongest candidate pool for each mission task."
+                "and skills through the MCP server only. Use MCP employee, project, department, and skill tools directly."
             ),
             output_key="people_discovery_output",
         )
@@ -106,7 +107,8 @@ if Agent is not None:
             description="Ranks candidates and explains every recommendation.",
             instruction=(
                 "You are the Intelligence Agent for HumanGrid. Rank candidates using skills, experience, project history, "
-                "trust, collaboration, workload, and availability. Produce confidence scores and explicit reasoning."
+                "trust, collaboration, workload, and availability. Produce confidence scores and explicit reasoning. "
+                "Do not call MCP directly; use Mission Engine context from People Discovery and Coordinator outputs."
             ),
             output_key="intelligence_output",
         )
@@ -115,10 +117,10 @@ if Agent is not None:
     def create_coordinator_agent() -> Any:
         return _create_llm_agent(
             name="coordinator_agent",
-            description="Coordinates assignments, scheduling, and notifications.",
+            description="Coordinates assignments, scheduling, notifications, and mission actions through MCP.",
             instruction=(
-                "You are the Coordinator Agent for HumanGrid. Prepare mission assignments, suggested meetings, and "
-                "notification actions for the selected team."
+                "You are the Coordinator Agent for HumanGrid. Prepare mission assignments, suggested meetings, mission updates, "
+                "and notification actions through the MCP server only."
             ),
             output_key="coordination_output",
         )
@@ -127,10 +129,10 @@ if Agent is not None:
     def create_mission_tracker_agent() -> Any:
         return _create_llm_agent(
             name="mission_tracker_agent",
-            description="Tracks mission progress and dashboard state.",
+            description="Tracks mission progress and dashboard state with read-only MCP access.",
             instruction=(
                 "You are the Mission Tracker Agent for HumanGrid. Summarize mission progress, track state transitions, "
-                "and emit dashboard-ready updates."
+                "and emit dashboard-ready updates. You may use only read-only MCP progress and analytics tools."
             ),
             output_key="mission_tracker_output",
         )

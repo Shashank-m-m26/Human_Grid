@@ -1,1 +1,3802 @@
-[]
+[
+  {
+    "employee_id": "emp-001",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-002",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-003",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "busy"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-004",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "busy"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-005",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-006",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-007",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-008",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "busy"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-009",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "busy"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-010",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-011",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-012",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "available"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-013",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "busy"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-014",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "busy"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-015",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-016",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "available"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-017",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-018",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "busy"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-019",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "busy"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-020",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "available"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-021",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-022",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-023",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "busy"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-024",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "busy"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-025",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-026",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-027",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-028",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "busy"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-029",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "busy"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-030",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-031",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-032",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "available"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-033",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "busy"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-034",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "busy"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-035",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-036",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "available"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-037",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-038",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "busy"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-039",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "busy"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-040",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "available"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-041",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-042",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-043",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "busy"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-044",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "busy"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-045",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-046",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-047",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-048",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "busy"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-049",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "busy"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-050",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-051",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-052",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "available"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-053",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "busy"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-054",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "busy"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-055",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-056",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "available"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-057",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-058",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "busy"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-059",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "busy"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-060",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "available"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-061",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-062",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-063",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "busy"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-064",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "busy"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-065",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-066",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-067",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-068",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "busy"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-069",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "busy"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-070",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-071",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-072",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "available"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-073",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "busy"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-074",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "busy"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-075",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-076",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "available"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-077",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-078",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "busy"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-079",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "busy"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-080",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "available"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-081",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-082",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-083",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "busy"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-084",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "busy"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-085",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-086",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-087",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-088",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "busy"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-089",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "busy"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-090",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-091",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-092",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "available"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-093",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "busy"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-094",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "busy"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-095",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-096",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "available"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-097",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "available"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "10:00",
+      "end": "13:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-098",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "busy"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        },
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "11:00",
+      "end": "15:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-099",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "status": "busy"
+        },
+        {
+          "start": "15:00",
+          "end": "16:00",
+          "status": "available"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "14:00",
+          "end": "15:00",
+          "status": "available"
+        },
+        {
+          "start": "16:00",
+          "end": "17:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "13:00",
+      "end": "17:00",
+      "timezone": "Asia/Calcutta"
+    }
+  },
+  {
+    "employee_id": "emp-100",
+    "today": {
+      "date": "2026-07-01",
+      "slots": [
+        {
+          "start": "09:00",
+          "end": "10:00",
+          "status": "available"
+        },
+        {
+          "start": "11:00",
+          "end": "12:00",
+          "status": "tentative"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-02",
+      "slots": [
+        {
+          "start": "10:00",
+          "end": "11:00",
+          "status": "available"
+        },
+        {
+          "start": "12:00",
+          "end": "13:00",
+          "status": "available"
+        }
+      ]
+    },
+    "preferred_meeting_hours": {
+      "start": "09:30",
+      "end": "12:30",
+      "timezone": "Asia/Calcutta"
+    }
+  }
+]

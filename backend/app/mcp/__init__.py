@@ -1,0 +1,1 @@
+"""HumanGrid MCP server package."""
