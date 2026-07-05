@@ -8801,5 +8801,2845 @@
         "notif-auto-0269f7"
       ]
     }
+  },
+  {
+    "mission_id": "mission-bae4831507b0",
+    "requester_id": "emp-001",
+    "title": "I need a DevOps mentor before tomorrow",
+    "objective": "I need a DevOps mentor before tomorrow.",
+    "status": "Assigned",
+    "priority": "high",
+    "created_at": "2026-07-05T16:27:58.105244+00:00",
+    "tasks": [
+      {
+        "task_id": "task-1",
+        "title": "Profile the mentorship need",
+        "description": "Capture the target capability gap, time horizon, and preferred mentoring style.",
+        "required_skills": [
+          "Mentoring",
+          "Learning & Development"
+        ],
+        "required_departments": [
+          "DevOps",
+          "Engineering",
+          "HR"
+        ],
+        "estimated_duration": "2 hours",
+        "status": "pending"
+      },
+      {
+        "task_id": "task-2",
+        "title": "Map required expertise",
+        "description": "Identify the domain expertise and seniority signals required for the mentor.",
+        "required_skills": [
+          "Kubernetes",
+          "Terraform",
+          "Mentoring"
+        ],
+        "required_departments": [
+          "DevOps",
+          "Engineering"
+        ],
+        "estimated_duration": "4 hours",
+        "status": "pending"
+      },
+      {
+        "task_id": "task-3",
+        "title": "Prepare mentor shortlist",
+        "description": "Assemble the best mentor candidates with availability-aware rationale.",
+        "required_skills": [
+          "Stakeholder Management",
+          "Mentoring",
+          "Communication"
+        ],
+        "required_departments": [
+          "DevOps",
+          "HR"
+        ],
+        "estimated_duration": "1 day",
+        "status": "pending"
+      }
+    ],
+    "team_member_ids": [
+      "emp-064",
+      "emp-067",
+      "emp-022",
+      "emp-017",
+      "emp-034"
+    ],
+    "stage_history": [
+      {
+        "stage": "Created",
+        "transitioned_at": "2026-07-05T16:27:58.105244+00:00"
+      },
+      {
+        "stage": "Planning",
+        "transitioned_at": "2026-07-05T16:27:58.285244+00:00"
+      },
+      {
+        "stage": "Searching",
+        "transitioned_at": "2026-07-05T16:27:58.465244+00:00"
+      },
+      {
+        "stage": "Ranking",
+        "transitioned_at": "2026-07-05T16:27:58.645244+00:00"
+      },
+      {
+        "stage": "Assigned",
+        "transitioned_at": "2026-07-05T16:27:58.825244+00:00"
+      }
+    ],
+    "current_stage": "Assigned",
+    "activity_feed": [
+      "Mission Engine authenticated operator 'admin'.",
+      "Intent Agent extracted the mission objective.",
+      "Mission Planner Agent generated executable tasks with duration and department requirements.",
+      "Skill Mapper Agent mapped required skills and departments for each task.",
+      "People Discovery Agent searched employees, projects, departments, and skills across the enterprise graph.",
+      "Intelligence Agent ranked candidates using explainable confidence-based scoring.",
+      "Coordinator Agent prepared assignments for 5 recommended team members.",
+      "Mission Tracker Agent published the enriched mission state and execution timeline."
+    ],
+    "execution_timeline": [
+      {
+        "agent_name": "Intent Agent",
+        "status": "completed",
+        "summary": "Mission request normalized into structured intent.",
+        "started_at": "2026-07-05T16:27:58.105244+00:00",
+        "completed_at": "2026-07-05T16:27:58.225244+00:00",
+        "duration_ms": 120,
+        "reasoning_summary": "Mission request normalized into structured intent.",
+        "confidence": 0.94
+      },
+      {
+        "agent_name": "Mission Planner Agent",
+        "status": "completed",
+        "summary": "Planned 3 executable tasks with estimated durations.",
+        "started_at": "2026-07-05T16:27:58.225244+00:00",
+        "completed_at": "2026-07-05T16:27:58.405244+00:00",
+        "duration_ms": 180,
+        "reasoning_summary": "Planned 3 executable tasks with estimated durations.",
+        "confidence": 0.9
+      },
+      {
+        "agent_name": "Skill Mapper Agent",
+        "status": "completed",
+        "summary": "Mapped required skills and departments for every task.",
+        "started_at": "2026-07-05T16:27:58.405244+00:00",
+        "completed_at": "2026-07-05T16:27:58.555244+00:00",
+        "duration_ms": 150,
+        "reasoning_summary": "Mapped required skills and departments for every task.",
+        "confidence": 0.91
+      },
+      {
+        "agent_name": "People Discovery Agent",
+        "status": "completed",
+        "summary": "Searched the enterprise graph and produced 36 graph matches.",
+        "started_at": "2026-07-05T16:27:58.555244+00:00",
+        "completed_at": "2026-07-05T16:27:58.815244+00:00",
+        "duration_ms": 260,
+        "reasoning_summary": "Searched the enterprise graph and produced 36 graph matches.",
+        "confidence": 0.89
+      },
+      {
+        "agent_name": "Intelligence Agent",
+        "status": "completed",
+        "summary": "Ranked 15 employee recommendations with explanations.",
+        "started_at": "2026-07-05T16:27:58.815244+00:00",
+        "completed_at": "2026-07-05T16:27:59.025244+00:00",
+        "duration_ms": 210,
+        "reasoning_summary": "Ranked 15 employee recommendations with explanations.",
+        "confidence": 0.92
+      },
+      {
+        "agent_name": "Coordinator Agent",
+        "status": "completed",
+        "summary": "Prepared coordination for 5 assigned employees.",
+        "started_at": "2026-07-05T16:27:59.025244+00:00",
+        "completed_at": "2026-07-05T16:27:59.165244+00:00",
+        "duration_ms": 140,
+        "reasoning_summary": "Prepared coordination for 5 assigned employees.",
+        "confidence": 0.86
+      },
+      {
+        "agent_name": "Mission Tracker Agent",
+        "status": "completed",
+        "summary": "Published mission state transitions and timeline metadata.",
+        "started_at": "2026-07-05T16:27:59.165244+00:00",
+        "completed_at": "2026-07-05T16:27:59.275244+00:00",
+        "duration_ms": 110,
+        "reasoning_summary": "Published mission state transitions and timeline metadata.",
+        "confidence": 0.95
+      }
+    ],
+    "root_agent_name": "Mission Engine Root",
+    "adk_available": true,
+    "people_discovery": {
+      "candidates_by_task": {
+        "task-1": [
+          "emp-064",
+          "emp-062",
+          "emp-063",
+          "emp-068",
+          "emp-067",
+          "emp-019",
+          "emp-014",
+          "emp-009",
+          "emp-004",
+          "emp-024"
+        ],
+        "task-2": [
+          "emp-027",
+          "emp-023",
+          "emp-022",
+          "emp-028",
+          "emp-024",
+          "emp-017",
+          "emp-018",
+          "emp-019",
+          "emp-014",
+          "emp-009"
+        ],
+        "task-3": [
+          "emp-019",
+          "emp-064",
+          "emp-034",
+          "emp-062",
+          "emp-029",
+          "emp-024",
+          "emp-063",
+          "emp-068",
+          "emp-067",
+          "emp-023"
+        ]
+      },
+      "graph_matches_by_task": {
+        "task-1": [
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-064",
+            "label": "Aisha Reddy",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Learning & Development, Mentoring and belongs to HR.",
+            "relationships": [
+              "department:HR",
+              "skill:Learning & Development",
+              "skill:Mentoring"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-062",
+            "label": "Kavya Reddy",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Learning & Development, Mentoring and belongs to HR.",
+            "relationships": [
+              "department:HR",
+              "skill:Learning & Development",
+              "skill:Mentoring"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-063",
+            "label": "Siddharth Reddy",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Learning & Development, Mentoring and belongs to HR.",
+            "relationships": [
+              "department:HR",
+              "skill:Learning & Development",
+              "skill:Mentoring"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-068",
+            "label": "Sneha Reddy",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Learning & Development, Mentoring and belongs to HR.",
+            "relationships": [
+              "department:HR",
+              "skill:Learning & Development",
+              "skill:Mentoring"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-067",
+            "label": "Varun Reddy",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Learning & Development, Mentoring and belongs to HR.",
+            "relationships": [
+              "department:HR",
+              "skill:Learning & Development",
+              "skill:Mentoring"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-019",
+            "label": "Aditya Sharma",
+            "relevance_score": 96.67,
+            "reason": "Matches skills through cross-functional signals and belongs to DevOps.",
+            "relationships": [
+              "department:DevOps"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-014",
+            "label": "Aisha Sharma",
+            "relevance_score": 96.67,
+            "reason": "Matches skills through cross-functional signals and belongs to Engineering.",
+            "relationships": [
+              "department:Engineering"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-009",
+            "label": "Arjun Sharma",
+            "relevance_score": 96.67,
+            "reason": "Matches skills through cross-functional signals and belongs to Engineering.",
+            "relationships": [
+              "department:Engineering"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-004",
+            "label": "Meera Sharma",
+            "relevance_score": 96.67,
+            "reason": "Matches skills through cross-functional signals and belongs to Engineering.",
+            "relationships": [
+              "department:Engineering"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-024",
+            "label": "Shreya Sharma",
+            "relevance_score": 96.67,
+            "reason": "Matches skills through cross-functional signals and belongs to DevOps.",
+            "relationships": [
+              "department:DevOps"
+            ]
+          },
+          {
+            "entity_type": "skill",
+            "entity_id": "Learning & Development",
+            "label": "Learning & Development",
+            "relevance_score": 90.0,
+            "reason": "Skill connects to category HR and related capabilities Talent Management, Recruiting.",
+            "relationships": [
+              "related:Talent Management",
+              "related:Recruiting",
+              "related:Employee Relations"
+            ]
+          },
+          {
+            "entity_type": "skill",
+            "entity_id": "Mentoring",
+            "label": "Mentoring",
+            "relevance_score": 90.0,
+            "reason": "Skill connects to category HR and related capabilities Talent Management, Recruiting.",
+            "relationships": [
+              "related:Talent Management",
+              "related:Recruiting",
+              "related:Employee Relations"
+            ]
+          }
+        ],
+        "task-2": [
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-027",
+            "label": "Ishita Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Kubernetes, Terraform and belongs to DevOps.",
+            "relationships": [
+              "department:DevOps",
+              "skill:Kubernetes",
+              "skill:Terraform"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-023",
+            "label": "Manav Sharma",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Kubernetes, Terraform and belongs to DevOps.",
+            "relationships": [
+              "department:DevOps",
+              "skill:Kubernetes",
+              "skill:Terraform"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-022",
+            "label": "Riya Sharma",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Kubernetes, Terraform and belongs to DevOps.",
+            "relationships": [
+              "department:DevOps",
+              "skill:Kubernetes",
+              "skill:Terraform"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-028",
+            "label": "Rohan Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Kubernetes, Terraform and belongs to DevOps.",
+            "relationships": [
+              "department:DevOps",
+              "skill:Kubernetes",
+              "skill:Terraform"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-024",
+            "label": "Shreya Sharma",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Terraform and belongs to DevOps.",
+            "relationships": [
+              "department:DevOps",
+              "skill:Terraform"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-017",
+            "label": "Varun Sharma",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Kubernetes, Terraform and belongs to DevOps.",
+            "relationships": [
+              "department:DevOps",
+              "skill:Kubernetes",
+              "skill:Terraform"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-018",
+            "label": "Sneha Sharma",
+            "relevance_score": 98.67,
+            "reason": "Matches skills Terraform and belongs to DevOps.",
+            "relationships": [
+              "department:DevOps",
+              "skill:Terraform"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-019",
+            "label": "Aditya Sharma",
+            "relevance_score": 96.67,
+            "reason": "Matches skills through cross-functional signals and belongs to DevOps.",
+            "relationships": [
+              "department:DevOps"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-014",
+            "label": "Aisha Sharma",
+            "relevance_score": 96.67,
+            "reason": "Matches skills through cross-functional signals and belongs to Engineering.",
+            "relationships": [
+              "department:Engineering"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-009",
+            "label": "Arjun Sharma",
+            "relevance_score": 96.67,
+            "reason": "Matches skills through cross-functional signals and belongs to Engineering.",
+            "relationships": [
+              "department:Engineering"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-004",
+            "label": "Meera Sharma",
+            "relevance_score": 96.67,
+            "reason": "Matches skills through cross-functional signals and belongs to Engineering.",
+            "relationships": [
+              "department:Engineering"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-064",
+            "label": "Aisha Reddy",
+            "relevance_score": 93.67,
+            "reason": "Matches skills Mentoring and belongs to HR.",
+            "relationships": [
+              "department:HR",
+              "skill:Mentoring"
+            ]
+          }
+        ],
+        "task-3": [
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-019",
+            "label": "Aditya Sharma",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication and belongs to DevOps.",
+            "relationships": [
+              "department:DevOps",
+              "skill:Communication"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-064",
+            "label": "Aisha Reddy",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Mentoring and belongs to HR.",
+            "relationships": [
+              "department:HR",
+              "skill:Communication",
+              "skill:Mentoring"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-034",
+            "label": "Arjun Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Stakeholder Management and belongs to Product.",
+            "relationships": [
+              "department:Product",
+              "skill:Communication",
+              "skill:Stakeholder Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-062",
+            "label": "Kavya Reddy",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Mentoring and belongs to HR.",
+            "relationships": [
+              "department:HR",
+              "skill:Communication",
+              "skill:Mentoring"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-029",
+            "label": "Meera Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Stakeholder Management and belongs to Product.",
+            "relationships": [
+              "department:Product",
+              "skill:Communication",
+              "skill:Stakeholder Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-024",
+            "label": "Shreya Sharma",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication and belongs to DevOps.",
+            "relationships": [
+              "department:DevOps",
+              "skill:Communication"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-063",
+            "label": "Siddharth Reddy",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Mentoring and belongs to HR.",
+            "relationships": [
+              "department:HR",
+              "skill:Communication",
+              "skill:Mentoring"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-068",
+            "label": "Sneha Reddy",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Mentoring and belongs to HR.",
+            "relationships": [
+              "department:HR",
+              "skill:Communication",
+              "skill:Mentoring"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-067",
+            "label": "Varun Reddy",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Mentoring and belongs to HR.",
+            "relationships": [
+              "department:HR",
+              "skill:Communication",
+              "skill:Mentoring"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-023",
+            "label": "Manav Sharma",
+            "relevance_score": 98.67,
+            "reason": "Matches skills Communication and belongs to DevOps.",
+            "relationships": [
+              "department:DevOps",
+              "skill:Communication"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-028",
+            "label": "Rohan Patel",
+            "relevance_score": 98.67,
+            "reason": "Matches skills Communication and belongs to DevOps.",
+            "relationships": [
+              "department:DevOps",
+              "skill:Communication"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-018",
+            "label": "Sneha Sharma",
+            "relevance_score": 98.67,
+            "reason": "Matches skills Communication and belongs to DevOps.",
+            "relationships": [
+              "department:DevOps",
+              "skill:Communication"
+            ]
+          }
+        ]
+      },
+      "searched_domains": [
+        "employees",
+        "projects",
+        "departments",
+        "skills"
+      ]
+    },
+    "intelligence": {
+      "ranked_candidates_by_task": {
+        "task-1": [
+          {
+            "employee": {
+              "employee_id": "emp-064",
+              "full_name": "Aisha Reddy",
+              "designation": "People Partner",
+              "department": "HR",
+              "office_location": "Delhi",
+              "experience_years": 14,
+              "skills": [
+                "Learning & Development",
+                "Mentoring",
+                "Talent Management",
+                "Communication",
+                "Program Management",
+                "Recruiting"
+              ],
+              "certifications": [
+                "HR Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "09:30",
+                "end": "12:30",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 35,
+              "trust_score": 80.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 71.0,
+              "communication_style": "Concise and direct",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 75.88,
+            "confidence_score": 0.76,
+            "explanation": "Aisha Reddy is a strong fit for Profile the mentorship need with 2 matching skills, 14 years of experience, and a confidence score of 0.76.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 2 required skills matched.",
+              "Experience: 14 years in HR.",
+              "Trust and collaboration: 80.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 35/100 and availability busy."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-067",
+              "full_name": "Varun Reddy",
+              "designation": "Talent Partner",
+              "department": "HR",
+              "office_location": "Delhi",
+              "experience_years": 8,
+              "skills": [
+                "Recruiting",
+                "Employee Relations",
+                "Learning & Development",
+                "Communication",
+                "Program Management",
+                "Mentoring"
+              ],
+              "certifications": [
+                "HR Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Hindi",
+                "Telugu"
+              ],
+              "availability": "limited",
+              "preferred_meeting_hours": {
+                "start": "13:00",
+                "end": "17:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 56,
+              "trust_score": 95.0,
+              "collaboration_score": 77.0,
+              "mentor_score": 83.0,
+              "communication_style": "Facilitative and empathetic",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 72.59,
+            "confidence_score": 0.73,
+            "explanation": "Varun Reddy is a strong fit for Profile the mentorship need with 2 matching skills, 8 years of experience, and a confidence score of 0.73.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 2 required skills matched.",
+              "Experience: 8 years in HR.",
+              "Trust and collaboration: 95.0/100 trust, 77.0/100 collaboration.",
+              "Workload and availability: workload 56/100 and availability limited."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-068",
+              "full_name": "Sneha Reddy",
+              "designation": "Talent Partner",
+              "department": "HR",
+              "office_location": "Delhi",
+              "experience_years": 11,
+              "skills": [
+                "Employee Relations",
+                "Learning & Development",
+                "Mentoring",
+                "Communication",
+                "Program Management",
+                "Talent Management"
+              ],
+              "certifications": [
+                "HR Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Hindi",
+                "Tamil"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "09:30",
+                "end": "12:30",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 63,
+              "trust_score": 72.0,
+              "collaboration_score": 83.0,
+              "mentor_score": 87.0,
+              "communication_style": "Concise and direct",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 70.63,
+            "confidence_score": 0.71,
+            "explanation": "Sneha Reddy is a strong fit for Profile the mentorship need with 2 matching skills, 11 years of experience, and a confidence score of 0.71.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 2 required skills matched.",
+              "Experience: 11 years in HR.",
+              "Trust and collaboration: 72.0/100 trust, 83.0/100 collaboration.",
+              "Workload and availability: workload 63/100 and availability busy."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-063",
+              "full_name": "Siddharth Reddy",
+              "designation": "Talent Partner",
+              "department": "HR",
+              "office_location": "Delhi",
+              "experience_years": 11,
+              "skills": [
+                "Employee Relations",
+                "Learning & Development",
+                "Mentoring",
+                "Communication",
+                "Program Management",
+                "Talent Management"
+              ],
+              "certifications": [
+                "HR Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Hindi",
+                "Tamil"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "13:00",
+                "end": "17:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 84,
+              "trust_score": 75.0,
+              "collaboration_score": 83.0,
+              "mentor_score": 67.0,
+              "communication_style": "Facilitative and empathetic",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 69.37,
+            "confidence_score": 0.69,
+            "explanation": "Siddharth Reddy is a strong fit for Profile the mentorship need with 2 matching skills, 11 years of experience, and a confidence score of 0.69.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 2 required skills matched.",
+              "Experience: 11 years in HR.",
+              "Trust and collaboration: 75.0/100 trust, 83.0/100 collaboration.",
+              "Workload and availability: workload 84/100 and availability busy."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-062",
+              "full_name": "Kavya Reddy",
+              "designation": "Talent Partner",
+              "department": "HR",
+              "office_location": "Delhi",
+              "experience_years": 8,
+              "skills": [
+                "Recruiting",
+                "Employee Relations",
+                "Learning & Development",
+                "Communication",
+                "Program Management",
+                "Mentoring"
+              ],
+              "certifications": [
+                "HR Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Hindi",
+                "Telugu"
+              ],
+              "availability": "limited",
+              "preferred_meeting_hours": {
+                "start": "11:00",
+                "end": "15:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 77,
+              "trust_score": 70.0,
+              "collaboration_score": 77.0,
+              "mentor_score": 63.0,
+              "communication_style": "Analytical and calm",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 67.41,
+            "confidence_score": 0.67,
+            "explanation": "Kavya Reddy is a strong fit for Profile the mentorship need with 2 matching skills, 8 years of experience, and a confidence score of 0.67.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 2 required skills matched.",
+              "Experience: 8 years in HR.",
+              "Trust and collaboration: 70.0/100 trust, 77.0/100 collaboration.",
+              "Workload and availability: workload 77/100 and availability limited."
+            ]
+          }
+        ],
+        "task-2": [
+          {
+            "employee": {
+              "employee_id": "emp-022",
+              "full_name": "Riya Sharma",
+              "designation": "Senior DevOps Engineer",
+              "department": "DevOps",
+              "office_location": "Pune",
+              "experience_years": 8,
+              "skills": [
+                "Observability",
+                "Kubernetes",
+                "Terraform",
+                "Communication",
+                "Program Management",
+                "CI/CD"
+              ],
+              "certifications": [
+                "DevOps Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Hindi",
+                "Telugu"
+              ],
+              "availability": "limited",
+              "preferred_meeting_hours": {
+                "start": "11:00",
+                "end": "15:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 77,
+              "trust_score": 94.0,
+              "collaboration_score": 77.0,
+              "mentor_score": 78.0,
+              "communication_style": "Analytical and calm",
+              "completed_projects": [
+                "proj-014"
+              ],
+              "current_projects": [
+                "proj-004",
+                "proj-024"
+              ]
+            },
+            "ranking_score": 69.11,
+            "confidence_score": 0.69,
+            "explanation": "Riya Sharma is a strong fit for Map required expertise with 2 matching skills, 8 years of experience, and a confidence score of 0.69.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 3 required skills matched.",
+              "Experience: 8 years in DevOps.",
+              "Trust and collaboration: 94.0/100 trust, 77.0/100 collaboration.",
+              "Workload and availability: workload 77/100 and availability limited.",
+              "Worked on Forge CI Platform Program 1 using Kubernetes, Terraform.",
+              "Worked on Forge CI Platform Initiative 2 using Kubernetes, Terraform."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-017",
+              "full_name": "Varun Sharma",
+              "designation": "Senior DevOps Engineer",
+              "department": "DevOps",
+              "office_location": "Pune",
+              "experience_years": 8,
+              "skills": [
+                "Kubernetes",
+                "Terraform",
+                "CI/CD",
+                "Communication",
+                "Program Management",
+                "AWS"
+              ],
+              "certifications": [
+                "DevOps Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Hindi",
+                "Telugu"
+              ],
+              "availability": "limited",
+              "preferred_meeting_hours": {
+                "start": "10:00",
+                "end": "13:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 42,
+              "trust_score": 69.0,
+              "collaboration_score": 77.0,
+              "mentor_score": 93.0,
+              "communication_style": "Structured and collaborative",
+              "completed_projects": [
+                "proj-014"
+              ],
+              "current_projects": [
+                "proj-004",
+                "proj-024"
+              ]
+            },
+            "ranking_score": 68.41,
+            "confidence_score": 0.68,
+            "explanation": "Varun Sharma is a strong fit for Map required expertise with 2 matching skills, 8 years of experience, and a confidence score of 0.68.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 3 required skills matched.",
+              "Experience: 8 years in DevOps.",
+              "Trust and collaboration: 69.0/100 trust, 77.0/100 collaboration.",
+              "Workload and availability: workload 42/100 and availability limited.",
+              "Worked on Forge CI Platform Program 1 using Kubernetes, Terraform.",
+              "Worked on Forge CI Platform Initiative 2 using Kubernetes, Terraform."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-023",
+              "full_name": "Manav Sharma",
+              "designation": "Senior DevOps Engineer",
+              "department": "DevOps",
+              "office_location": "Pune",
+              "experience_years": 11,
+              "skills": [
+                "Kubernetes",
+                "Terraform",
+                "CI/CD",
+                "Communication",
+                "Program Management",
+                "AWS"
+              ],
+              "certifications": [
+                "DevOps Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Hindi",
+                "Tamil"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "13:00",
+                "end": "17:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 84,
+              "trust_score": 71.0,
+              "collaboration_score": 83.0,
+              "mentor_score": 82.0,
+              "communication_style": "Facilitative and empathetic",
+              "completed_projects": [
+                "proj-014"
+              ],
+              "current_projects": [
+                "proj-024"
+              ]
+            },
+            "ranking_score": 64.15,
+            "confidence_score": 0.64,
+            "explanation": "Manav Sharma is a strong fit for Map required expertise with 2 matching skills, 11 years of experience, and a confidence score of 0.64.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 3 required skills matched.",
+              "Experience: 11 years in DevOps.",
+              "Trust and collaboration: 71.0/100 trust, 83.0/100 collaboration.",
+              "Workload and availability: workload 84/100 and availability busy.",
+              "Worked on Forge CI Platform Initiative 2 using Kubernetes, Terraform.",
+              "Worked on Forge CI Platform Initiative 2 using Kubernetes, Terraform."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-027",
+              "full_name": "Ishita Patel",
+              "designation": "Senior DevOps Engineer",
+              "department": "DevOps",
+              "office_location": "Pune",
+              "experience_years": 8,
+              "skills": [
+                "Docker",
+                "Observability",
+                "Kubernetes",
+                "Communication",
+                "Program Management",
+                "Terraform"
+              ],
+              "certifications": [
+                "DevOps Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Hindi",
+                "Telugu"
+              ],
+              "availability": "limited",
+              "preferred_meeting_hours": {
+                "start": "13:00",
+                "end": "17:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 56,
+              "trust_score": 91.0,
+              "collaboration_score": 77.0,
+              "mentor_score": 63.0,
+              "communication_style": "Facilitative and empathetic",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 61.37,
+            "confidence_score": 0.61,
+            "explanation": "Ishita Patel is a strong fit for Map required expertise with 2 matching skills, 8 years of experience, and a confidence score of 0.61.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 3 required skills matched.",
+              "Experience: 8 years in DevOps.",
+              "Trust and collaboration: 91.0/100 trust, 77.0/100 collaboration.",
+              "Workload and availability: workload 56/100 and availability limited."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-018",
+              "full_name": "Sneha Sharma",
+              "designation": "Senior DevOps Engineer",
+              "department": "DevOps",
+              "office_location": "Pune",
+              "experience_years": 11,
+              "skills": [
+                "Terraform",
+                "CI/CD",
+                "AWS",
+                "Communication",
+                "Program Management",
+                "Docker"
+              ],
+              "certifications": [
+                "DevOps Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Hindi",
+                "Tamil"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "11:00",
+                "end": "15:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 49,
+              "trust_score": 74.0,
+              "collaboration_score": 83.0,
+              "mentor_score": 62.0,
+              "communication_style": "Analytical and calm",
+              "completed_projects": [
+                "proj-014"
+              ],
+              "current_projects": [
+                "proj-004",
+                "proj-024"
+              ]
+            },
+            "ranking_score": 59.7,
+            "confidence_score": 0.6,
+            "explanation": "Sneha Sharma is a strong fit for Map required expertise with 1 matching skills, 11 years of experience, and a confidence score of 0.6.",
+            "structured_reasoning": [
+              "Skill coverage: 1 of 3 required skills matched.",
+              "Experience: 11 years in DevOps.",
+              "Trust and collaboration: 74.0/100 trust, 83.0/100 collaboration.",
+              "Workload and availability: workload 49/100 and availability busy.",
+              "Worked on Forge CI Platform Program 1 using Kubernetes, Terraform.",
+              "Worked on Forge CI Platform Initiative 2 using Kubernetes, Terraform."
+            ]
+          }
+        ],
+        "task-3": [
+          {
+            "employee": {
+              "employee_id": "emp-064",
+              "full_name": "Aisha Reddy",
+              "designation": "People Partner",
+              "department": "HR",
+              "office_location": "Delhi",
+              "experience_years": 14,
+              "skills": [
+                "Learning & Development",
+                "Mentoring",
+                "Talent Management",
+                "Communication",
+                "Program Management",
+                "Recruiting"
+              ],
+              "certifications": [
+                "HR Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "09:30",
+                "end": "12:30",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 35,
+              "trust_score": 80.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 71.0,
+              "communication_style": "Concise and direct",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 65.21,
+            "confidence_score": 0.65,
+            "explanation": "Aisha Reddy is a strong fit for Prepare mentor shortlist with 2 matching skills, 14 years of experience, and a confidence score of 0.65.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 3 required skills matched.",
+              "Experience: 14 years in HR.",
+              "Trust and collaboration: 80.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 35/100 and availability busy."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-034",
+              "full_name": "Arjun Patel",
+              "designation": "Senior Product Manager",
+              "department": "Product",
+              "office_location": "Mumbai",
+              "experience_years": 14,
+              "skills": [
+                "Product Strategy",
+                "Roadmapping",
+                "Stakeholder Management",
+                "Communication",
+                "Program Management",
+                "Customer Research"
+              ],
+              "certifications": [
+                "Product Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "11:00",
+                "end": "15:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 49,
+              "trust_score": 70.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 91.0,
+              "communication_style": "Analytical and calm",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 62.69,
+            "confidence_score": 0.63,
+            "explanation": "Arjun Patel is a strong fit for Prepare mentor shortlist with 2 matching skills, 14 years of experience, and a confidence score of 0.63.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 3 required skills matched.",
+              "Experience: 14 years in Product.",
+              "Trust and collaboration: 70.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 49/100 and availability busy."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-067",
+              "full_name": "Varun Reddy",
+              "designation": "Talent Partner",
+              "department": "HR",
+              "office_location": "Delhi",
+              "experience_years": 8,
+              "skills": [
+                "Recruiting",
+                "Employee Relations",
+                "Learning & Development",
+                "Communication",
+                "Program Management",
+                "Mentoring"
+              ],
+              "certifications": [
+                "HR Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Hindi",
+                "Telugu"
+              ],
+              "availability": "limited",
+              "preferred_meeting_hours": {
+                "start": "13:00",
+                "end": "17:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 56,
+              "trust_score": 95.0,
+              "collaboration_score": 77.0,
+              "mentor_score": 83.0,
+              "communication_style": "Facilitative and empathetic",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 61.93,
+            "confidence_score": 0.62,
+            "explanation": "Varun Reddy is a strong fit for Prepare mentor shortlist with 2 matching skills, 8 years of experience, and a confidence score of 0.62.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 3 required skills matched.",
+              "Experience: 8 years in HR.",
+              "Trust and collaboration: 95.0/100 trust, 77.0/100 collaboration.",
+              "Workload and availability: workload 56/100 and availability limited."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-019",
+              "full_name": "Aditya Sharma",
+              "designation": "Platform Engineer",
+              "department": "DevOps",
+              "office_location": "Pune",
+              "experience_years": 14,
+              "skills": [
+                "CI/CD",
+                "AWS",
+                "Docker",
+                "Communication",
+                "Program Management",
+                "Observability"
+              ],
+              "certifications": [
+                "DevOps Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "13:00",
+                "end": "17:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 56,
+              "trust_score": 79.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 66.0,
+              "communication_style": "Facilitative and empathetic",
+              "completed_projects": [
+                "proj-014"
+              ],
+              "current_projects": [
+                "proj-004",
+                "proj-024"
+              ]
+            },
+            "ranking_score": 61.73,
+            "confidence_score": 0.62,
+            "explanation": "Aditya Sharma is a strong fit for Prepare mentor shortlist with 1 matching skills, 14 years of experience, and a confidence score of 0.62.",
+            "structured_reasoning": [
+              "Skill coverage: 1 of 3 required skills matched.",
+              "Experience: 14 years in DevOps.",
+              "Trust and collaboration: 79.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 56/100 and availability busy.",
+              "Worked on Forge CI Platform Program 1 using DevOps.",
+              "Worked on Forge CI Platform Initiative 2 using DevOps."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-029",
+              "full_name": "Meera Patel",
+              "designation": "Senior Product Manager",
+              "department": "Product",
+              "office_location": "Mumbai",
+              "experience_years": 14,
+              "skills": [
+                "Product Strategy",
+                "Roadmapping",
+                "Stakeholder Management",
+                "Communication",
+                "Program Management",
+                "Customer Research"
+              ],
+              "certifications": [
+                "Product Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "10:00",
+                "end": "13:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 70,
+              "trust_score": 73.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 71.0,
+              "communication_style": "Structured and collaborative",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 61.43,
+            "confidence_score": 0.61,
+            "explanation": "Meera Patel is a strong fit for Prepare mentor shortlist with 2 matching skills, 14 years of experience, and a confidence score of 0.61.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 3 required skills matched.",
+              "Experience: 14 years in Product.",
+              "Trust and collaboration: 73.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 70/100 and availability busy."
+            ]
+          }
+        ]
+      }
+    },
+    "coordination": {
+      "mission_id": "mission-bae4831507b0",
+      "assigned_employee_ids": [
+        "emp-064",
+        "emp-067",
+        "emp-022",
+        "emp-017",
+        "emp-034"
+      ],
+      "scheduled_meeting_ids": [
+        "meeting-1507b0"
+      ],
+      "notification_ids": [
+        "notif-auto-1507b0"
+      ]
+    }
+  },
+  {
+    "mission_id": "mission-e59e1d15474c",
+    "requester_id": "emp-001",
+    "title": "I need reviewers for my client demo",
+    "objective": "I need reviewers for my client demo.",
+    "status": "Assigned",
+    "priority": "normal",
+    "created_at": "2026-07-05T18:41:28.480203+00:00",
+    "tasks": [
+      {
+        "task_id": "task-1",
+        "title": "Define review goals",
+        "description": "Clarify what kind of review is needed and how many reviewers are required.",
+        "required_skills": [
+          "Stakeholder Management",
+          "Documentation"
+        ],
+        "required_departments": [
+          "Product",
+          "QA"
+        ],
+        "estimated_duration": "2 hours",
+        "status": "pending"
+      },
+      {
+        "task_id": "task-2",
+        "title": "Find relevant reviewers",
+        "description": "Locate reviewers with the right domain context, trust score, and availability.",
+        "required_skills": [
+          "Quality Engineering",
+          "API Testing",
+          "Communication"
+        ],
+        "required_departments": [
+          "QA",
+          "Engineering"
+        ],
+        "estimated_duration": "4 hours",
+        "status": "pending"
+      },
+      {
+        "task_id": "task-3",
+        "title": "Coordinate review readiness",
+        "description": "Prepare meeting and review coordination steps for the recommended reviewers.",
+        "required_skills": [
+          "Program Management",
+          "Communication"
+        ],
+        "required_departments": [
+          "Product",
+          "QA",
+          "Engineering"
+        ],
+        "estimated_duration": "1 day",
+        "status": "pending"
+      }
+    ],
+    "team_member_ids": [
+      "emp-033",
+      "emp-034",
+      "emp-041",
+      "emp-044",
+      "emp-039"
+    ],
+    "stage_history": [
+      {
+        "stage": "Created",
+        "transitioned_at": "2026-07-05T18:41:28.480203+00:00"
+      },
+      {
+        "stage": "Planning",
+        "transitioned_at": "2026-07-05T18:41:28.660203+00:00"
+      },
+      {
+        "stage": "Searching",
+        "transitioned_at": "2026-07-05T18:41:28.840203+00:00"
+      },
+      {
+        "stage": "Ranking",
+        "transitioned_at": "2026-07-05T18:41:29.020203+00:00"
+      },
+      {
+        "stage": "Assigned",
+        "transitioned_at": "2026-07-05T18:41:29.200203+00:00"
+      }
+    ],
+    "current_stage": "Assigned",
+    "activity_feed": [
+      "Mission Engine authenticated operator 'admin'.",
+      "Intent Agent extracted the mission objective.",
+      "Mission Planner Agent generated executable tasks with duration and department requirements.",
+      "Skill Mapper Agent mapped required skills and departments for each task.",
+      "People Discovery Agent searched employees, projects, departments, and skills across the enterprise graph.",
+      "Intelligence Agent ranked candidates using explainable confidence-based scoring.",
+      "Coordinator Agent prepared assignments for 5 recommended team members.",
+      "Mission Tracker Agent published the enriched mission state and execution timeline."
+    ],
+    "execution_timeline": [
+      {
+        "agent_name": "Intent Agent",
+        "status": "completed",
+        "summary": "Mission request normalized into structured intent.",
+        "started_at": "2026-07-05T18:41:28.480203+00:00",
+        "completed_at": "2026-07-05T18:41:28.600203+00:00",
+        "duration_ms": 120,
+        "reasoning_summary": "Mission request normalized into structured intent.",
+        "confidence": 0.94
+      },
+      {
+        "agent_name": "Mission Planner Agent",
+        "status": "completed",
+        "summary": "Planned 3 executable tasks with estimated durations.",
+        "started_at": "2026-07-05T18:41:28.600203+00:00",
+        "completed_at": "2026-07-05T18:41:28.780203+00:00",
+        "duration_ms": 180,
+        "reasoning_summary": "Planned 3 executable tasks with estimated durations.",
+        "confidence": 0.9
+      },
+      {
+        "agent_name": "Skill Mapper Agent",
+        "status": "completed",
+        "summary": "Mapped required skills and departments for every task.",
+        "started_at": "2026-07-05T18:41:28.780203+00:00",
+        "completed_at": "2026-07-05T18:41:28.930203+00:00",
+        "duration_ms": 150,
+        "reasoning_summary": "Mapped required skills and departments for every task.",
+        "confidence": 0.91
+      },
+      {
+        "agent_name": "People Discovery Agent",
+        "status": "completed",
+        "summary": "Searched the enterprise graph and produced 36 graph matches.",
+        "started_at": "2026-07-05T18:41:28.930203+00:00",
+        "completed_at": "2026-07-05T18:41:29.190203+00:00",
+        "duration_ms": 260,
+        "reasoning_summary": "Searched the enterprise graph and produced 36 graph matches.",
+        "confidence": 0.89
+      },
+      {
+        "agent_name": "Intelligence Agent",
+        "status": "completed",
+        "summary": "Ranked 15 employee recommendations with explanations.",
+        "started_at": "2026-07-05T18:41:29.190203+00:00",
+        "completed_at": "2026-07-05T18:41:29.400203+00:00",
+        "duration_ms": 210,
+        "reasoning_summary": "Ranked 15 employee recommendations with explanations.",
+        "confidence": 0.92
+      },
+      {
+        "agent_name": "Coordinator Agent",
+        "status": "completed",
+        "summary": "Prepared coordination for 5 assigned employees.",
+        "started_at": "2026-07-05T18:41:29.400203+00:00",
+        "completed_at": "2026-07-05T18:41:29.540203+00:00",
+        "duration_ms": 140,
+        "reasoning_summary": "Prepared coordination for 5 assigned employees.",
+        "confidence": 0.86
+      },
+      {
+        "agent_name": "Mission Tracker Agent",
+        "status": "completed",
+        "summary": "Published mission state transitions and timeline metadata.",
+        "started_at": "2026-07-05T18:41:29.540203+00:00",
+        "completed_at": "2026-07-05T18:41:29.650203+00:00",
+        "duration_ms": 110,
+        "reasoning_summary": "Published mission state transitions and timeline metadata.",
+        "confidence": 0.95
+      }
+    ],
+    "root_agent_name": "Mission Engine Root",
+    "adk_available": true,
+    "people_discovery": {
+      "candidates_by_task": {
+        "task-1": [
+          "emp-034",
+          "emp-029",
+          "emp-033",
+          "emp-038",
+          "emp-044",
+          "emp-039",
+          "emp-049",
+          "emp-030",
+          "emp-031",
+          "emp-035"
+        ],
+        "task-2": [
+          "emp-044",
+          "emp-039",
+          "emp-014",
+          "emp-009",
+          "emp-041",
+          "emp-046",
+          "emp-048",
+          "emp-004",
+          "emp-047",
+          "emp-049"
+        ],
+        "task-3": [
+          "emp-094",
+          "emp-044",
+          "emp-069",
+          "emp-019",
+          "emp-089",
+          "emp-039",
+          "emp-064",
+          "emp-014",
+          "emp-084",
+          "emp-034"
+        ]
+      },
+      "graph_matches_by_task": {
+        "task-1": [
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-034",
+            "label": "Arjun Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Stakeholder Management and belongs to Product.",
+            "relationships": [
+              "department:Product",
+              "skill:Stakeholder Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-029",
+            "label": "Meera Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Stakeholder Management and belongs to Product.",
+            "relationships": [
+              "department:Product",
+              "skill:Stakeholder Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-033",
+            "label": "Nisha Patel",
+            "relevance_score": 98.67,
+            "reason": "Matches skills Stakeholder Management and belongs to Product.",
+            "relationships": [
+              "department:Product",
+              "skill:Stakeholder Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-038",
+            "label": "Siddharth Patel",
+            "relevance_score": 98.67,
+            "reason": "Matches skills Stakeholder Management and belongs to Product.",
+            "relationships": [
+              "department:Product",
+              "skill:Stakeholder Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-044",
+            "label": "Aditya Patel",
+            "relevance_score": 96.67,
+            "reason": "Matches skills through cross-functional signals and belongs to QA.",
+            "relationships": [
+              "department:QA"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-039",
+            "label": "Aisha Patel",
+            "relevance_score": 96.67,
+            "reason": "Matches skills through cross-functional signals and belongs to QA.",
+            "relationships": [
+              "department:QA"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-049",
+            "label": "Shreya Patel",
+            "relevance_score": 96.67,
+            "reason": "Matches skills through cross-functional signals and belongs to QA.",
+            "relationships": [
+              "department:QA"
+            ]
+          },
+          {
+            "entity_type": "skill",
+            "entity_id": "Documentation",
+            "label": "Documentation",
+            "relevance_score": 90.0,
+            "reason": "Skill connects to category Cross Functional and related capabilities Knowledge Base, Communication.",
+            "relationships": [
+              "related:Knowledge Base",
+              "related:Communication",
+              "related:Compliance"
+            ]
+          },
+          {
+            "entity_type": "skill",
+            "entity_id": "Stakeholder Management",
+            "label": "Stakeholder Management",
+            "relevance_score": 90.0,
+            "reason": "Skill connects to category Product and related capabilities Product Strategy, Roadmapping.",
+            "relationships": [
+              "related:Product Strategy",
+              "related:Roadmapping",
+              "related:Customer Research"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-048",
+            "label": "Manav Patel",
+            "relevance_score": 86.67,
+            "reason": "Matches skills through cross-functional signals and belongs to QA.",
+            "relationships": [
+              "department:QA"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-043",
+            "label": "Sneha Patel",
+            "relevance_score": 86.67,
+            "reason": "Matches skills through cross-functional signals and belongs to QA.",
+            "relationships": [
+              "department:QA"
+            ]
+          },
+          {
+            "entity_type": "department",
+            "entity_id": "Product",
+            "label": "Product",
+            "relevance_score": 85.0,
+            "reason": "Department contributes 10 employees to the mission scope.",
+            "relationships": [
+              "manager:emp-029"
+            ]
+          }
+        ],
+        "task-2": [
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-044",
+            "label": "Aditya Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills API Testing, Communication and belongs to QA.",
+            "relationships": [
+              "department:QA",
+              "skill:API Testing",
+              "skill:Communication"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-039",
+            "label": "Aisha Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills API Testing, Communication and belongs to QA.",
+            "relationships": [
+              "department:QA",
+              "skill:API Testing",
+              "skill:Communication"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-014",
+            "label": "Aisha Sharma",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication and belongs to Engineering.",
+            "relationships": [
+              "department:Engineering",
+              "skill:Communication"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-009",
+            "label": "Arjun Sharma",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication and belongs to Engineering.",
+            "relationships": [
+              "department:Engineering",
+              "skill:Communication"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-041",
+            "label": "Diya Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills API Testing, Communication, Quality Engineering and belongs to QA.",
+            "relationships": [
+              "department:QA",
+              "skill:API Testing",
+              "skill:Communication",
+              "skill:Quality Engineering"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-046",
+            "label": "Krish Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills API Testing, Communication, Quality Engineering and belongs to QA.",
+            "relationships": [
+              "department:QA",
+              "skill:API Testing",
+              "skill:Communication",
+              "skill:Quality Engineering"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-048",
+            "label": "Manav Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Quality Engineering and belongs to QA.",
+            "relationships": [
+              "department:QA",
+              "skill:Communication",
+              "skill:Quality Engineering"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-004",
+            "label": "Meera Sharma",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication and belongs to Engineering.",
+            "relationships": [
+              "department:Engineering",
+              "skill:Communication"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-047",
+            "label": "Riya Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills API Testing, Communication, Quality Engineering and belongs to QA.",
+            "relationships": [
+              "department:QA",
+              "skill:API Testing",
+              "skill:Communication",
+              "skill:Quality Engineering"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-049",
+            "label": "Shreya Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills API Testing, Communication and belongs to QA.",
+            "relationships": [
+              "department:QA",
+              "skill:API Testing",
+              "skill:Communication"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-043",
+            "label": "Sneha Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Quality Engineering and belongs to QA.",
+            "relationships": [
+              "department:QA",
+              "skill:Communication",
+              "skill:Quality Engineering"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-042",
+            "label": "Varun Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills API Testing, Communication, Quality Engineering and belongs to QA.",
+            "relationships": [
+              "department:QA",
+              "skill:API Testing",
+              "skill:Communication",
+              "skill:Quality Engineering"
+            ]
+          }
+        ],
+        "task-3": [
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-094",
+            "label": "Aditya Iyer",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Support.",
+            "relationships": [
+              "department:Support",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-044",
+            "label": "Aditya Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to QA.",
+            "relationships": [
+              "department:QA",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-069",
+            "label": "Aditya Reddy",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Security.",
+            "relationships": [
+              "department:Security",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-019",
+            "label": "Aditya Sharma",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to DevOps.",
+            "relationships": [
+              "department:DevOps",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-089",
+            "label": "Aisha Iyer",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Data Science.",
+            "relationships": [
+              "department:Data Science",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-039",
+            "label": "Aisha Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to QA.",
+            "relationships": [
+              "department:QA",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-064",
+            "label": "Aisha Reddy",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to HR.",
+            "relationships": [
+              "department:HR",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-014",
+            "label": "Aisha Sharma",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Engineering.",
+            "relationships": [
+              "department:Engineering",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-084",
+            "label": "Arjun Iyer",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Data Science.",
+            "relationships": [
+              "department:Data Science",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-034",
+            "label": "Arjun Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Product.",
+            "relationships": [
+              "department:Product",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-059",
+            "label": "Arjun Reddy",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Design.",
+            "relationships": [
+              "department:Design",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-009",
+            "label": "Arjun Sharma",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Engineering.",
+            "relationships": [
+              "department:Engineering",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          }
+        ]
+      },
+      "searched_domains": [
+        "employees",
+        "projects",
+        "departments",
+        "skills"
+      ]
+    },
+    "intelligence": {
+      "ranked_candidates_by_task": {
+        "task-1": [
+          {
+            "employee": {
+              "employee_id": "emp-033",
+              "full_name": "Nisha Patel",
+              "designation": "Product Manager",
+              "department": "Product",
+              "office_location": "Mumbai",
+              "experience_years": 11,
+              "skills": [
+                "Analytics",
+                "Product Strategy",
+                "Roadmapping",
+                "Communication",
+                "Program Management",
+                "Stakeholder Management"
+              ],
+              "certifications": [
+                "Product Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Hindi",
+                "Tamil"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "10:00",
+                "end": "13:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 42,
+              "trust_score": 93.0,
+              "collaboration_score": 83.0,
+              "mentor_score": 87.0,
+              "communication_style": "Structured and collaborative",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 59.25,
+            "confidence_score": 0.59,
+            "explanation": "Nisha Patel is a strong fit for Define review goals with 1 matching skills, 11 years of experience, and a confidence score of 0.59.",
+            "structured_reasoning": [
+              "Skill coverage: 1 of 2 required skills matched.",
+              "Experience: 11 years in Product.",
+              "Trust and collaboration: 93.0/100 trust, 83.0/100 collaboration.",
+              "Workload and availability: workload 42/100 and availability busy."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-034",
+              "full_name": "Arjun Patel",
+              "designation": "Senior Product Manager",
+              "department": "Product",
+              "office_location": "Mumbai",
+              "experience_years": 14,
+              "skills": [
+                "Product Strategy",
+                "Roadmapping",
+                "Stakeholder Management",
+                "Communication",
+                "Program Management",
+                "Customer Research"
+              ],
+              "certifications": [
+                "Product Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "11:00",
+                "end": "15:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 49,
+              "trust_score": 70.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 91.0,
+              "communication_style": "Analytical and calm",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 57.36,
+            "confidence_score": 0.57,
+            "explanation": "Arjun Patel is a strong fit for Define review goals with 1 matching skills, 14 years of experience, and a confidence score of 0.57.",
+            "structured_reasoning": [
+              "Skill coverage: 1 of 2 required skills matched.",
+              "Experience: 14 years in Product.",
+              "Trust and collaboration: 70.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 49/100 and availability busy."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-029",
+              "full_name": "Meera Patel",
+              "designation": "Senior Product Manager",
+              "department": "Product",
+              "office_location": "Mumbai",
+              "experience_years": 14,
+              "skills": [
+                "Product Strategy",
+                "Roadmapping",
+                "Stakeholder Management",
+                "Communication",
+                "Program Management",
+                "Customer Research"
+              ],
+              "certifications": [
+                "Product Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "10:00",
+                "end": "13:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 70,
+              "trust_score": 73.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 71.0,
+              "communication_style": "Structured and collaborative",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 56.1,
+            "confidence_score": 0.56,
+            "explanation": "Meera Patel is a strong fit for Define review goals with 1 matching skills, 14 years of experience, and a confidence score of 0.56.",
+            "structured_reasoning": [
+              "Skill coverage: 1 of 2 required skills matched.",
+              "Experience: 14 years in Product.",
+              "Trust and collaboration: 73.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 70/100 and availability busy."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-038",
+              "full_name": "Siddharth Patel",
+              "designation": "Product Manager",
+              "department": "Product",
+              "office_location": "Mumbai",
+              "experience_years": 11,
+              "skills": [
+                "Analytics",
+                "Product Strategy",
+                "Roadmapping",
+                "Communication",
+                "Program Management",
+                "Stakeholder Management"
+              ],
+              "certifications": [
+                "Product Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Hindi",
+                "Tamil"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "11:00",
+                "end": "15:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 77,
+              "trust_score": 90.0,
+              "collaboration_score": 83.0,
+              "mentor_score": 72.0,
+              "communication_style": "Analytical and calm",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 56.03,
+            "confidence_score": 0.56,
+            "explanation": "Siddharth Patel is a strong fit for Define review goals with 1 matching skills, 11 years of experience, and a confidence score of 0.56.",
+            "structured_reasoning": [
+              "Skill coverage: 1 of 2 required skills matched.",
+              "Experience: 11 years in Product.",
+              "Trust and collaboration: 90.0/100 trust, 83.0/100 collaboration.",
+              "Workload and availability: workload 77/100 and availability busy."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-031",
+              "full_name": "Ananya Patel",
+              "designation": "Product Analyst",
+              "department": "Product",
+              "office_location": "Mumbai",
+              "experience_years": 5,
+              "skills": [
+                "Stakeholder Management",
+                "Customer Research",
+                "Analytics",
+                "Communication",
+                "Program Management",
+                "Product Strategy"
+              ],
+              "certifications": [
+                "Product Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Hindi",
+                "Kannada"
+              ],
+              "availability": "available",
+              "preferred_meeting_hours": {
+                "start": "13:00",
+                "end": "17:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 84,
+              "trust_score": 83.0,
+              "collaboration_score": 71.0,
+              "mentor_score": 79.0,
+              "communication_style": "Facilitative and empathetic",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 51.25,
+            "confidence_score": 0.51,
+            "explanation": "Ananya Patel is a strong fit for Define review goals with 1 matching skills, 5 years of experience, and a confidence score of 0.51.",
+            "structured_reasoning": [
+              "Skill coverage: 1 of 2 required skills matched.",
+              "Experience: 5 years in Product.",
+              "Trust and collaboration: 83.0/100 trust, 71.0/100 collaboration.",
+              "Workload and availability: workload 84/100 and availability available."
+            ]
+          }
+        ],
+        "task-2": [
+          {
+            "employee": {
+              "employee_id": "emp-041",
+              "full_name": "Diya Patel",
+              "designation": "QA Engineer",
+              "department": "QA",
+              "office_location": "Hyderabad",
+              "experience_years": 5,
+              "skills": [
+                "Playwright",
+                "API Testing",
+                "Quality Engineering",
+                "Communication",
+                "Program Management",
+                "Test Automation"
+              ],
+              "certifications": [
+                "QA Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Hindi",
+                "Kannada"
+              ],
+              "availability": "available",
+              "preferred_meeting_hours": {
+                "start": "10:00",
+                "end": "13:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 42,
+              "trust_score": 77.0,
+              "collaboration_score": 71.0,
+              "mentor_score": 84.0,
+              "communication_style": "Structured and collaborative",
+              "completed_projects": [
+                "proj-008"
+              ],
+              "current_projects": [
+                "proj-018"
+              ]
+            },
+            "ranking_score": 75.77,
+            "confidence_score": 0.76,
+            "explanation": "Diya Patel is a strong fit for Find relevant reviewers with 3 matching skills, 5 years of experience, and a confidence score of 0.76.",
+            "structured_reasoning": [
+              "Skill coverage: 3 of 3 required skills matched.",
+              "Experience: 5 years in QA.",
+              "Trust and collaboration: 77.0/100 trust, 71.0/100 collaboration.",
+              "Workload and availability: workload 42/100 and availability available.",
+              "Worked on Velocity QA Grid Program 1 using API Testing.",
+              "Worked on Velocity QA Grid Initiative 2 using API Testing."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-044",
+              "full_name": "Aditya Patel",
+              "designation": "Quality Automation Lead",
+              "department": "QA",
+              "office_location": "Hyderabad",
+              "experience_years": 14,
+              "skills": [
+                "Test Automation",
+                "Selenium",
+                "Playwright",
+                "Communication",
+                "Program Management",
+                "API Testing"
+              ],
+              "certifications": [
+                "QA Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "09:30",
+                "end": "12:30",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 63,
+              "trust_score": 92.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 61.0,
+              "communication_style": "Concise and direct",
+              "completed_projects": [
+                "proj-008"
+              ],
+              "current_projects": [
+                "proj-018"
+              ]
+            },
+            "ranking_score": 70.65,
+            "confidence_score": 0.71,
+            "explanation": "Aditya Patel is a strong fit for Find relevant reviewers with 2 matching skills, 14 years of experience, and a confidence score of 0.71.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 3 required skills matched.",
+              "Experience: 14 years in QA.",
+              "Trust and collaboration: 92.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 63/100 and availability busy.",
+              "Worked on Velocity QA Grid Program 1 using API Testing.",
+              "Worked on Velocity QA Grid Initiative 2 using API Testing."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-046",
+              "full_name": "Krish Patel",
+              "designation": "QA Engineer",
+              "department": "QA",
+              "office_location": "Hyderabad",
+              "experience_years": 5,
+              "skills": [
+                "Playwright",
+                "API Testing",
+                "Quality Engineering",
+                "Communication",
+                "Program Management",
+                "Test Automation"
+              ],
+              "certifications": [
+                "QA Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Hindi",
+                "Kannada"
+              ],
+              "availability": "available",
+              "preferred_meeting_hours": {
+                "start": "11:00",
+                "end": "15:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 77,
+              "trust_score": 74.0,
+              "collaboration_score": 71.0,
+              "mentor_score": 69.0,
+              "communication_style": "Analytical and calm",
+              "completed_projects": [],
+              "current_projects": [
+                "proj-018"
+              ]
+            },
+            "ranking_score": 69.55,
+            "confidence_score": 0.7,
+            "explanation": "Krish Patel is a strong fit for Find relevant reviewers with 3 matching skills, 5 years of experience, and a confidence score of 0.7.",
+            "structured_reasoning": [
+              "Skill coverage: 3 of 3 required skills matched.",
+              "Experience: 5 years in QA.",
+              "Trust and collaboration: 74.0/100 trust, 71.0/100 collaboration.",
+              "Workload and availability: workload 77/100 and availability available.",
+              "Worked on Velocity QA Grid Initiative 2 using API Testing."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-039",
+              "full_name": "Aisha Patel",
+              "designation": "Quality Automation Lead",
+              "department": "QA",
+              "office_location": "Hyderabad",
+              "experience_years": 14,
+              "skills": [
+                "Test Automation",
+                "Selenium",
+                "Playwright",
+                "Communication",
+                "Program Management",
+                "API Testing"
+              ],
+              "certifications": [
+                "QA Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "13:00",
+                "end": "17:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 84,
+              "trust_score": 95.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 76.0,
+              "communication_style": "Facilitative and empathetic",
+              "completed_projects": [
+                "proj-008"
+              ],
+              "current_projects": [
+                "proj-018"
+              ]
+            },
+            "ranking_score": 69.39,
+            "confidence_score": 0.69,
+            "explanation": "Aisha Patel is a strong fit for Find relevant reviewers with 2 matching skills, 14 years of experience, and a confidence score of 0.69.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 3 required skills matched.",
+              "Experience: 14 years in QA.",
+              "Trust and collaboration: 95.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 84/100 and availability busy.",
+              "Worked on Velocity QA Grid Program 1 using API Testing.",
+              "Worked on Velocity QA Grid Initiative 2 using API Testing."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-047",
+              "full_name": "Riya Patel",
+              "designation": "Senior QA Engineer",
+              "department": "QA",
+              "office_location": "Hyderabad",
+              "experience_years": 8,
+              "skills": [
+                "API Testing",
+                "Quality Engineering",
+                "Test Automation",
+                "Communication",
+                "Program Management",
+                "Selenium"
+              ],
+              "certifications": [
+                "QA Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Hindi",
+                "Telugu"
+              ],
+              "availability": "limited",
+              "preferred_meeting_hours": {
+                "start": "13:00",
+                "end": "17:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 84,
+              "trust_score": 79.0,
+              "collaboration_score": 77.0,
+              "mentor_score": 73.0,
+              "communication_style": "Facilitative and empathetic",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 68.11,
+            "confidence_score": 0.68,
+            "explanation": "Riya Patel is a strong fit for Find relevant reviewers with 3 matching skills, 8 years of experience, and a confidence score of 0.68.",
+            "structured_reasoning": [
+              "Skill coverage: 3 of 3 required skills matched.",
+              "Experience: 8 years in QA.",
+              "Trust and collaboration: 79.0/100 trust, 77.0/100 collaboration.",
+              "Workload and availability: workload 84/100 and availability limited."
+            ]
+          }
+        ],
+        "task-3": [
+          {
+            "employee": {
+              "employee_id": "emp-044",
+              "full_name": "Aditya Patel",
+              "designation": "Quality Automation Lead",
+              "department": "QA",
+              "office_location": "Hyderabad",
+              "experience_years": 14,
+              "skills": [
+                "Test Automation",
+                "Selenium",
+                "Playwright",
+                "Communication",
+                "Program Management",
+                "API Testing"
+              ],
+              "certifications": [
+                "QA Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "09:30",
+                "end": "12:30",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 63,
+              "trust_score": 92.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 61.0,
+              "communication_style": "Concise and direct",
+              "completed_projects": [
+                "proj-008"
+              ],
+              "current_projects": [
+                "proj-018"
+              ]
+            },
+            "ranking_score": 81.32,
+            "confidence_score": 0.81,
+            "explanation": "Aditya Patel is a strong fit for Coordinate review readiness with 2 matching skills, 14 years of experience, and a confidence score of 0.81.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 2 required skills matched.",
+              "Experience: 14 years in QA.",
+              "Trust and collaboration: 92.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 63/100 and availability busy.",
+              "Worked on Velocity QA Grid Program 1 using QA.",
+              "Worked on Velocity QA Grid Initiative 2 using QA."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-039",
+              "full_name": "Aisha Patel",
+              "designation": "Quality Automation Lead",
+              "department": "QA",
+              "office_location": "Hyderabad",
+              "experience_years": 14,
+              "skills": [
+                "Test Automation",
+                "Selenium",
+                "Playwright",
+                "Communication",
+                "Program Management",
+                "API Testing"
+              ],
+              "certifications": [
+                "QA Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "13:00",
+                "end": "17:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 84,
+              "trust_score": 95.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 76.0,
+              "communication_style": "Facilitative and empathetic",
+              "completed_projects": [
+                "proj-008"
+              ],
+              "current_projects": [
+                "proj-018"
+              ]
+            },
+            "ranking_score": 80.06,
+            "confidence_score": 0.8,
+            "explanation": "Aisha Patel is a strong fit for Coordinate review readiness with 2 matching skills, 14 years of experience, and a confidence score of 0.8.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 2 required skills matched.",
+              "Experience: 14 years in QA.",
+              "Trust and collaboration: 95.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 84/100 and availability busy.",
+              "Worked on Velocity QA Grid Program 1 using QA.",
+              "Worked on Velocity QA Grid Initiative 2 using QA."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-089",
+              "full_name": "Aisha Iyer",
+              "designation": "ML Engineer",
+              "department": "Data Science",
+              "office_location": "Bengaluru",
+              "experience_years": 14,
+              "skills": [
+                "Machine Learning",
+                "Data Engineering",
+                "SQL",
+                "Communication",
+                "Program Management",
+                "MLOps"
+              ],
+              "certifications": [
+                "Data Science Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "10:00",
+                "end": "13:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 42,
+              "trust_score": 93.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 66.0,
+              "communication_style": "Structured and collaborative",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 77.14,
+            "confidence_score": 0.77,
+            "explanation": "Aisha Iyer is a strong fit for Coordinate review readiness with 2 matching skills, 14 years of experience, and a confidence score of 0.77.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 2 required skills matched.",
+              "Experience: 14 years in Data Science.",
+              "Trust and collaboration: 93.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 42/100 and availability busy."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-064",
+              "full_name": "Aisha Reddy",
+              "designation": "People Partner",
+              "department": "HR",
+              "office_location": "Delhi",
+              "experience_years": 14,
+              "skills": [
+                "Learning & Development",
+                "Mentoring",
+                "Talent Management",
+                "Communication",
+                "Program Management",
+                "Recruiting"
+              ],
+              "certifications": [
+                "HR Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "09:30",
+                "end": "12:30",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 35,
+              "trust_score": 80.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 71.0,
+              "communication_style": "Concise and direct",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 75.88,
+            "confidence_score": 0.76,
+            "explanation": "Aisha Reddy is a strong fit for Coordinate review readiness with 2 matching skills, 14 years of experience, and a confidence score of 0.76.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 2 required skills matched.",
+              "Experience: 14 years in HR.",
+              "Trust and collaboration: 80.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 35/100 and availability busy."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-019",
+              "full_name": "Aditya Sharma",
+              "designation": "Platform Engineer",
+              "department": "DevOps",
+              "office_location": "Pune",
+              "experience_years": 14,
+              "skills": [
+                "CI/CD",
+                "AWS",
+                "Docker",
+                "Communication",
+                "Program Management",
+                "Observability"
+              ],
+              "certifications": [
+                "DevOps Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "13:00",
+                "end": "17:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 56,
+              "trust_score": 79.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 66.0,
+              "communication_style": "Facilitative and empathetic",
+              "completed_projects": [
+                "proj-014"
+              ],
+              "current_projects": [
+                "proj-004",
+                "proj-024"
+              ]
+            },
+            "ranking_score": 74.06,
+            "confidence_score": 0.74,
+            "explanation": "Aditya Sharma is a strong fit for Coordinate review readiness with 2 matching skills, 14 years of experience, and a confidence score of 0.74.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 2 required skills matched.",
+              "Experience: 14 years in DevOps.",
+              "Trust and collaboration: 79.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 56/100 and availability busy."
+            ]
+          }
+        ]
+      }
+    },
+    "coordination": {
+      "mission_id": "mission-e59e1d15474c",
+      "assigned_employee_ids": [
+        "emp-033",
+        "emp-034",
+        "emp-041",
+        "emp-044",
+        "emp-039"
+      ],
+      "scheduled_meeting_ids": [
+        "meeting-15474c"
+      ],
+      "notification_ids": [
+        "notif-auto-15474c"
+      ]
+    }
   }
 ]

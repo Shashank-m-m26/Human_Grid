@@ -520,5 +520,59 @@
     "message": "Mission I need a DevOps mentor before tomorrow assigned to emp-022.",
     "status": "delivered",
     "timestamp": "2026-07-03T11:11:46.463416+00:00"
+  },
+  {
+    "notification_id": "notif-mission-bae4831507b0-1",
+    "employee_id": "emp-064",
+    "mission_id": "mission-bae4831507b0",
+    "type": "Mission Assigned",
+    "message": "Mission I need a DevOps mentor before tomorrow assigned to emp-064.",
+    "status": "delivered",
+    "timestamp": "2026-07-05T16:27:58.105244+00:00"
+  },
+  {
+    "notification_id": "notif-mission-bae4831507b0-2",
+    "employee_id": "emp-067",
+    "mission_id": "mission-bae4831507b0",
+    "type": "Mission Assigned",
+    "message": "Mission I need a DevOps mentor before tomorrow assigned to emp-067.",
+    "status": "delivered",
+    "timestamp": "2026-07-05T16:27:58.105244+00:00"
+  },
+  {
+    "notification_id": "notif-mission-bae4831507b0-3",
+    "employee_id": "emp-022",
+    "mission_id": "mission-bae4831507b0",
+    "type": "Mission Assigned",
+    "message": "Mission I need a DevOps mentor before tomorrow assigned to emp-022.",
+    "status": "delivered",
+    "timestamp": "2026-07-05T16:27:58.105244+00:00"
+  },
+  {
+    "notification_id": "notif-mission-e59e1d15474c-1",
+    "employee_id": "emp-033",
+    "mission_id": "mission-e59e1d15474c",
+    "type": "Mission Assigned",
+    "message": "Mission I need reviewers for my client demo assigned to emp-033.",
+    "status": "delivered",
+    "timestamp": "2026-07-05T18:41:28.480203+00:00"
+  },
+  {
+    "notification_id": "notif-mission-e59e1d15474c-2",
+    "employee_id": "emp-034",
+    "mission_id": "mission-e59e1d15474c",
+    "type": "Mission Assigned",
+    "message": "Mission I need reviewers for my client demo assigned to emp-034.",
+    "status": "delivered",
+    "timestamp": "2026-07-05T18:41:28.480203+00:00"
+  },
+  {
+    "notification_id": "notif-mission-e59e1d15474c-3",
+    "employee_id": "emp-041",
+    "mission_id": "mission-e59e1d15474c",
+    "type": "Mission Assigned",
+    "message": "Mission I need reviewers for my client demo assigned to emp-041.",
+    "status": "delivered",
+    "timestamp": "2026-07-05T18:41:28.480203+00:00"
   }
 ]
