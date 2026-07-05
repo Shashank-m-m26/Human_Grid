@@ -574,5 +574,32 @@
     "message": "Mission I need reviewers for my client demo assigned to emp-041.",
     "status": "delivered",
     "timestamp": "2026-07-05T18:41:28.480203+00:00"
+  },
+  {
+    "notification_id": "notif-mission-f1e709d8a5c4-1",
+    "employee_id": "emp-031",
+    "mission_id": "mission-f1e709d8a5c4",
+    "type": "Mission Assigned",
+    "message": "Mission I need a cross-functional hackathon team assigned to emp-031.",
+    "status": "delivered",
+    "timestamp": "2026-07-05T19:05:16.501390+00:00"
+  },
+  {
+    "notification_id": "notif-mission-f1e709d8a5c4-2",
+    "employee_id": "emp-089",
+    "mission_id": "mission-f1e709d8a5c4",
+    "type": "Mission Assigned",
+    "message": "Mission I need a cross-functional hackathon team assigned to emp-089.",
+    "status": "delivered",
+    "timestamp": "2026-07-05T19:05:16.501390+00:00"
+  },
+  {
+    "notification_id": "notif-mission-f1e709d8a5c4-3",
+    "employee_id": "emp-004",
+    "mission_id": "mission-f1e709d8a5c4",
+    "type": "Mission Assigned",
+    "message": "Mission I need a cross-functional hackathon team assigned to emp-004.",
+    "status": "delivered",
+    "timestamp": "2026-07-05T19:05:16.501390+00:00"
   }
 ]

@@ -11641,5 +11641,1467 @@
         "notif-auto-15474c"
       ]
     }
+  },
+  {
+    "mission_id": "mission-f1e709d8a5c4",
+    "requester_id": "emp-001",
+    "title": "I need a cross-functional hackathon team",
+    "objective": "I need a cross-functional hackathon team.",
+    "status": "Assigned",
+    "priority": "normal",
+    "created_at": "2026-07-05T19:05:16.501390+00:00",
+    "tasks": [
+      {
+        "task_id": "task-1",
+        "title": "Shape the team mission",
+        "description": "Define the team objective, timeline, and coverage needed across functions.",
+        "required_skills": [
+          "Stakeholder Management",
+          "Communication",
+          "Program Management"
+        ],
+        "required_departments": [
+          "Product",
+          "Engineering"
+        ],
+        "estimated_duration": "3 hours",
+        "status": "pending"
+      },
+      {
+        "task_id": "task-2",
+        "title": "Map cross-functional roles",
+        "description": "Identify the functional skill mix required for the mission.",
+        "required_skills": [
+          "System Design",
+          "Design Systems",
+          "Machine Learning"
+        ],
+        "required_departments": [
+          "Engineering",
+          "Design",
+          "Data Science"
+        ],
+        "estimated_duration": "6 hours",
+        "status": "pending"
+      },
+      {
+        "task_id": "task-3",
+        "title": "Assemble the candidate team",
+        "description": "Prepare a balanced shortlist of collaborators with rationale.",
+        "required_skills": [
+          "Program Management",
+          "Mentoring",
+          "Communication"
+        ],
+        "required_departments": [
+          "Engineering",
+          "Design",
+          "Data Science",
+          "Product"
+        ],
+        "estimated_duration": "1 day",
+        "status": "pending"
+      }
+    ],
+    "team_member_ids": [
+      "emp-031",
+      "emp-089",
+      "emp-004",
+      "emp-009",
+      "emp-064"
+    ],
+    "stage_history": [
+      {
+        "stage": "Created",
+        "transitioned_at": "2026-07-05T19:05:16.501390+00:00"
+      },
+      {
+        "stage": "Planning",
+        "transitioned_at": "2026-07-05T19:05:16.681390+00:00"
+      },
+      {
+        "stage": "Searching",
+        "transitioned_at": "2026-07-05T19:05:16.861390+00:00"
+      },
+      {
+        "stage": "Ranking",
+        "transitioned_at": "2026-07-05T19:05:17.041390+00:00"
+      },
+      {
+        "stage": "Assigned",
+        "transitioned_at": "2026-07-05T19:05:17.221390+00:00"
+      }
+    ],
+    "current_stage": "Assigned",
+    "activity_feed": [
+      "Mission Engine authenticated operator 'admin'.",
+      "Intent Agent extracted the mission objective.",
+      "Mission Planner Agent generated executable tasks with duration and department requirements.",
+      "Skill Mapper Agent mapped required skills and departments for each task.",
+      "People Discovery Agent searched employees, projects, departments, and skills across the enterprise graph.",
+      "Intelligence Agent ranked candidates using explainable confidence-based scoring.",
+      "Coordinator Agent prepared assignments for 5 recommended team members.",
+      "Mission Tracker Agent published the enriched mission state and execution timeline."
+    ],
+    "execution_timeline": [
+      {
+        "agent_name": "Intent Agent",
+        "status": "completed",
+        "summary": "Mission request normalized into structured intent.",
+        "started_at": "2026-07-05T19:05:16.501390+00:00",
+        "completed_at": "2026-07-05T19:05:16.621390+00:00",
+        "duration_ms": 120,
+        "reasoning_summary": "Mission request normalized into structured intent.",
+        "confidence": 0.94
+      },
+      {
+        "agent_name": "Mission Planner Agent",
+        "status": "completed",
+        "summary": "Planned 3 executable tasks with estimated durations.",
+        "started_at": "2026-07-05T19:05:16.621390+00:00",
+        "completed_at": "2026-07-05T19:05:16.801390+00:00",
+        "duration_ms": 180,
+        "reasoning_summary": "Planned 3 executable tasks with estimated durations.",
+        "confidence": 0.9
+      },
+      {
+        "agent_name": "Skill Mapper Agent",
+        "status": "completed",
+        "summary": "Mapped required skills and departments for every task.",
+        "started_at": "2026-07-05T19:05:16.801390+00:00",
+        "completed_at": "2026-07-05T19:05:16.951390+00:00",
+        "duration_ms": 150,
+        "reasoning_summary": "Mapped required skills and departments for every task.",
+        "confidence": 0.91
+      },
+      {
+        "agent_name": "People Discovery Agent",
+        "status": "completed",
+        "summary": "Searched the enterprise graph and produced 36 graph matches.",
+        "started_at": "2026-07-05T19:05:16.951390+00:00",
+        "completed_at": "2026-07-05T19:05:17.211390+00:00",
+        "duration_ms": 260,
+        "reasoning_summary": "Searched the enterprise graph and produced 36 graph matches.",
+        "confidence": 0.89
+      },
+      {
+        "agent_name": "Intelligence Agent",
+        "status": "completed",
+        "summary": "Ranked 15 employee recommendations with explanations.",
+        "started_at": "2026-07-05T19:05:17.211390+00:00",
+        "completed_at": "2026-07-05T19:05:17.421390+00:00",
+        "duration_ms": 210,
+        "reasoning_summary": "Ranked 15 employee recommendations with explanations.",
+        "confidence": 0.92
+      },
+      {
+        "agent_name": "Coordinator Agent",
+        "status": "completed",
+        "summary": "Prepared coordination for 5 assigned employees.",
+        "started_at": "2026-07-05T19:05:17.421390+00:00",
+        "completed_at": "2026-07-05T19:05:17.561390+00:00",
+        "duration_ms": 140,
+        "reasoning_summary": "Prepared coordination for 5 assigned employees.",
+        "confidence": 0.86
+      },
+      {
+        "agent_name": "Mission Tracker Agent",
+        "status": "completed",
+        "summary": "Published mission state transitions and timeline metadata.",
+        "started_at": "2026-07-05T19:05:17.561390+00:00",
+        "completed_at": "2026-07-05T19:05:17.671390+00:00",
+        "duration_ms": 110,
+        "reasoning_summary": "Published mission state transitions and timeline metadata.",
+        "confidence": 0.95
+      }
+    ],
+    "root_agent_name": "Mission Engine Root",
+    "adk_available": true,
+    "people_discovery": {
+      "candidates_by_task": {
+        "task-1": [
+          "emp-094",
+          "emp-044",
+          "emp-069",
+          "emp-019",
+          "emp-089",
+          "emp-039",
+          "emp-064",
+          "emp-014",
+          "emp-031",
+          "emp-084"
+        ],
+        "task-2": [
+          "emp-089",
+          "emp-014",
+          "emp-084",
+          "emp-009",
+          "emp-079",
+          "emp-004",
+          "emp-083",
+          "emp-058",
+          "emp-008",
+          "emp-053"
+        ],
+        "task-3": [
+          "emp-094",
+          "emp-044",
+          "emp-069",
+          "emp-019",
+          "emp-089",
+          "emp-039",
+          "emp-064",
+          "emp-014",
+          "emp-084",
+          "emp-034"
+        ]
+      },
+      "graph_matches_by_task": {
+        "task-1": [
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-094",
+            "label": "Aditya Iyer",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Support.",
+            "relationships": [
+              "department:Support",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-044",
+            "label": "Aditya Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to QA.",
+            "relationships": [
+              "department:QA",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-069",
+            "label": "Aditya Reddy",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Security.",
+            "relationships": [
+              "department:Security",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-019",
+            "label": "Aditya Sharma",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to DevOps.",
+            "relationships": [
+              "department:DevOps",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-089",
+            "label": "Aisha Iyer",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Data Science.",
+            "relationships": [
+              "department:Data Science",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-039",
+            "label": "Aisha Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to QA.",
+            "relationships": [
+              "department:QA",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-064",
+            "label": "Aisha Reddy",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to HR.",
+            "relationships": [
+              "department:HR",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-014",
+            "label": "Aisha Sharma",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Engineering.",
+            "relationships": [
+              "department:Engineering",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-031",
+            "label": "Ananya Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management, Stakeholder Management and belongs to Product.",
+            "relationships": [
+              "department:Product",
+              "skill:Communication",
+              "skill:Program Management",
+              "skill:Stakeholder Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-084",
+            "label": "Arjun Iyer",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Data Science.",
+            "relationships": [
+              "department:Data Science",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-034",
+            "label": "Arjun Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management, Stakeholder Management and belongs to Product.",
+            "relationships": [
+              "department:Product",
+              "skill:Communication",
+              "skill:Program Management",
+              "skill:Stakeholder Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-059",
+            "label": "Arjun Reddy",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Design.",
+            "relationships": [
+              "department:Design",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          }
+        ],
+        "task-2": [
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-089",
+            "label": "Aisha Iyer",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Machine Learning and belongs to Data Science.",
+            "relationships": [
+              "department:Data Science",
+              "skill:Machine Learning"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-014",
+            "label": "Aisha Sharma",
+            "relevance_score": 100.0,
+            "reason": "Matches skills System Design and belongs to Engineering.",
+            "relationships": [
+              "department:Engineering",
+              "skill:System Design"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-084",
+            "label": "Arjun Iyer",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Machine Learning and belongs to Data Science.",
+            "relationships": [
+              "department:Data Science",
+              "skill:Machine Learning"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-009",
+            "label": "Arjun Sharma",
+            "relevance_score": 100.0,
+            "reason": "Matches skills System Design and belongs to Engineering.",
+            "relationships": [
+              "department:Engineering",
+              "skill:System Design"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-079",
+            "label": "Meera Iyer",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Machine Learning and belongs to Data Science.",
+            "relationships": [
+              "department:Data Science",
+              "skill:Machine Learning"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-004",
+            "label": "Meera Sharma",
+            "relevance_score": 100.0,
+            "reason": "Matches skills System Design and belongs to Engineering.",
+            "relationships": [
+              "department:Engineering",
+              "skill:System Design"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-083",
+            "label": "Nisha Iyer",
+            "relevance_score": 98.67,
+            "reason": "Matches skills Machine Learning and belongs to Data Science.",
+            "relationships": [
+              "department:Data Science",
+              "skill:Machine Learning"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-058",
+            "label": "Nisha Reddy",
+            "relevance_score": 98.67,
+            "reason": "Matches skills Design Systems and belongs to Design.",
+            "relationships": [
+              "department:Design",
+              "skill:Design Systems"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-008",
+            "label": "Nisha Sharma",
+            "relevance_score": 98.67,
+            "reason": "Matches skills System Design and belongs to Engineering.",
+            "relationships": [
+              "department:Engineering",
+              "skill:System Design"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-053",
+            "label": "Rohan Reddy",
+            "relevance_score": 98.67,
+            "reason": "Matches skills Design Systems and belongs to Design.",
+            "relationships": [
+              "department:Design",
+              "skill:Design Systems"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-003",
+            "label": "Rohan Sharma",
+            "relevance_score": 98.67,
+            "reason": "Matches skills System Design and belongs to Engineering.",
+            "relationships": [
+              "department:Engineering",
+              "skill:System Design"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-088",
+            "label": "Siddharth Iyer",
+            "relevance_score": 98.67,
+            "reason": "Matches skills Machine Learning and belongs to Data Science.",
+            "relationships": [
+              "department:Data Science",
+              "skill:Machine Learning"
+            ]
+          }
+        ],
+        "task-3": [
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-094",
+            "label": "Aditya Iyer",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Support.",
+            "relationships": [
+              "department:Support",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-044",
+            "label": "Aditya Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to QA.",
+            "relationships": [
+              "department:QA",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-069",
+            "label": "Aditya Reddy",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Security.",
+            "relationships": [
+              "department:Security",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-019",
+            "label": "Aditya Sharma",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to DevOps.",
+            "relationships": [
+              "department:DevOps",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-089",
+            "label": "Aisha Iyer",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Data Science.",
+            "relationships": [
+              "department:Data Science",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-039",
+            "label": "Aisha Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to QA.",
+            "relationships": [
+              "department:QA",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-064",
+            "label": "Aisha Reddy",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Mentoring, Program Management and belongs to HR.",
+            "relationships": [
+              "department:HR",
+              "skill:Communication",
+              "skill:Mentoring",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-014",
+            "label": "Aisha Sharma",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Engineering.",
+            "relationships": [
+              "department:Engineering",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-084",
+            "label": "Arjun Iyer",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Data Science.",
+            "relationships": [
+              "department:Data Science",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-034",
+            "label": "Arjun Patel",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Product.",
+            "relationships": [
+              "department:Product",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-059",
+            "label": "Arjun Reddy",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Design.",
+            "relationships": [
+              "department:Design",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          },
+          {
+            "entity_type": "employee",
+            "entity_id": "emp-009",
+            "label": "Arjun Sharma",
+            "relevance_score": 100.0,
+            "reason": "Matches skills Communication, Program Management and belongs to Engineering.",
+            "relationships": [
+              "department:Engineering",
+              "skill:Communication",
+              "skill:Program Management"
+            ]
+          }
+        ]
+      },
+      "searched_domains": [
+        "employees",
+        "projects",
+        "departments",
+        "skills"
+      ]
+    },
+    "intelligence": {
+      "ranked_candidates_by_task": {
+        "task-1": [
+          {
+            "employee": {
+              "employee_id": "emp-031",
+              "full_name": "Ananya Patel",
+              "designation": "Product Analyst",
+              "department": "Product",
+              "office_location": "Mumbai",
+              "experience_years": 5,
+              "skills": [
+                "Stakeholder Management",
+                "Customer Research",
+                "Analytics",
+                "Communication",
+                "Program Management",
+                "Product Strategy"
+              ],
+              "certifications": [
+                "Product Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Hindi",
+                "Kannada"
+              ],
+              "availability": "available",
+              "preferred_meeting_hours": {
+                "start": "13:00",
+                "end": "17:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 84,
+              "trust_score": 83.0,
+              "collaboration_score": 71.0,
+              "mentor_score": 79.0,
+              "communication_style": "Facilitative and empathetic",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 67.25,
+            "confidence_score": 0.67,
+            "explanation": "Ananya Patel is a strong fit for Shape the team mission with 3 matching skills, 5 years of experience, and a confidence score of 0.67.",
+            "structured_reasoning": [
+              "Skill coverage: 3 of 3 required skills matched.",
+              "Experience: 5 years in Product.",
+              "Trust and collaboration: 83.0/100 trust, 71.0/100 collaboration.",
+              "Workload and availability: workload 84/100 and availability available."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-089",
+              "full_name": "Aisha Iyer",
+              "designation": "ML Engineer",
+              "department": "Data Science",
+              "office_location": "Bengaluru",
+              "experience_years": 14,
+              "skills": [
+                "Machine Learning",
+                "Data Engineering",
+                "SQL",
+                "Communication",
+                "Program Management",
+                "MLOps"
+              ],
+              "certifications": [
+                "Data Science Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "10:00",
+                "end": "13:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 42,
+              "trust_score": 93.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 66.0,
+              "communication_style": "Structured and collaborative",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 66.47,
+            "confidence_score": 0.66,
+            "explanation": "Aisha Iyer is a strong fit for Shape the team mission with 2 matching skills, 14 years of experience, and a confidence score of 0.66.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 3 required skills matched.",
+              "Experience: 14 years in Data Science.",
+              "Trust and collaboration: 93.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 42/100 and availability busy."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-064",
+              "full_name": "Aisha Reddy",
+              "designation": "People Partner",
+              "department": "HR",
+              "office_location": "Delhi",
+              "experience_years": 14,
+              "skills": [
+                "Learning & Development",
+                "Mentoring",
+                "Talent Management",
+                "Communication",
+                "Program Management",
+                "Recruiting"
+              ],
+              "certifications": [
+                "HR Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "09:30",
+                "end": "12:30",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 35,
+              "trust_score": 80.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 71.0,
+              "communication_style": "Concise and direct",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 65.21,
+            "confidence_score": 0.65,
+            "explanation": "Aisha Reddy is a strong fit for Shape the team mission with 2 matching skills, 14 years of experience, and a confidence score of 0.65.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 3 required skills matched.",
+              "Experience: 14 years in HR.",
+              "Trust and collaboration: 80.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 35/100 and availability busy."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-044",
+              "full_name": "Aditya Patel",
+              "designation": "Quality Automation Lead",
+              "department": "QA",
+              "office_location": "Hyderabad",
+              "experience_years": 14,
+              "skills": [
+                "Test Automation",
+                "Selenium",
+                "Playwright",
+                "Communication",
+                "Program Management",
+                "API Testing"
+              ],
+              "certifications": [
+                "QA Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "09:30",
+                "end": "12:30",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 63,
+              "trust_score": 92.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 61.0,
+              "communication_style": "Concise and direct",
+              "completed_projects": [
+                "proj-008"
+              ],
+              "current_projects": [
+                "proj-018"
+              ]
+            },
+            "ranking_score": 64.65,
+            "confidence_score": 0.65,
+            "explanation": "Aditya Patel is a strong fit for Shape the team mission with 2 matching skills, 14 years of experience, and a confidence score of 0.65.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 3 required skills matched.",
+              "Experience: 14 years in QA.",
+              "Trust and collaboration: 92.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 63/100 and availability busy."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-019",
+              "full_name": "Aditya Sharma",
+              "designation": "Platform Engineer",
+              "department": "DevOps",
+              "office_location": "Pune",
+              "experience_years": 14,
+              "skills": [
+                "CI/CD",
+                "AWS",
+                "Docker",
+                "Communication",
+                "Program Management",
+                "Observability"
+              ],
+              "certifications": [
+                "DevOps Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "13:00",
+                "end": "17:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 56,
+              "trust_score": 79.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 66.0,
+              "communication_style": "Facilitative and empathetic",
+              "completed_projects": [
+                "proj-014"
+              ],
+              "current_projects": [
+                "proj-004",
+                "proj-024"
+              ]
+            },
+            "ranking_score": 63.39,
+            "confidence_score": 0.63,
+            "explanation": "Aditya Sharma is a strong fit for Shape the team mission with 2 matching skills, 14 years of experience, and a confidence score of 0.63.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 3 required skills matched.",
+              "Experience: 14 years in DevOps.",
+              "Trust and collaboration: 79.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 56/100 and availability busy."
+            ]
+          }
+        ],
+        "task-2": [
+          {
+            "employee": {
+              "employee_id": "emp-004",
+              "full_name": "Meera Sharma",
+              "designation": "Staff Software Engineer",
+              "department": "Engineering",
+              "office_location": "Bengaluru",
+              "experience_years": 14,
+              "skills": [
+                "System Design",
+                "React",
+                "APIs",
+                "Communication",
+                "Program Management",
+                "Python"
+              ],
+              "certifications": [
+                "Engineering Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "09:30",
+                "end": "12:30",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 63,
+              "trust_score": 88.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 76.0,
+              "communication_style": "Concise and direct",
+              "completed_projects": [
+                "proj-005",
+                "proj-011",
+                "proj-017",
+                "proj-020",
+                "proj-023"
+              ],
+              "current_projects": [
+                "proj-001",
+                "proj-003",
+                "proj-006",
+                "proj-007",
+                "proj-009",
+                "proj-010",
+                "proj-013",
+                "proj-015",
+                "proj-016",
+                "proj-019",
+                "proj-021"
+              ]
+            },
+            "ranking_score": 65.43,
+            "confidence_score": 0.65,
+            "explanation": "Meera Sharma is a strong fit for Map cross-functional roles with 1 matching skills, 14 years of experience, and a confidence score of 0.65.",
+            "structured_reasoning": [
+              "Skill coverage: 1 of 3 required skills matched.",
+              "Experience: 14 years in Engineering.",
+              "Trust and collaboration: 88.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 63/100 and availability busy.",
+              "Worked on Atlas ML Workbench Program 1 using Machine Learning.",
+              "Worked on Canvas Design System Program 1 using Design Systems."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-009",
+              "full_name": "Arjun Sharma",
+              "designation": "Staff Software Engineer",
+              "department": "Engineering",
+              "office_location": "Bengaluru",
+              "experience_years": 14,
+              "skills": [
+                "Microservices",
+                "System Design",
+                "React",
+                "Communication",
+                "Program Management",
+                "APIs"
+              ],
+              "certifications": [
+                "Engineering Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "10:00",
+                "end": "13:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 42,
+              "trust_score": 85.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 61.0,
+              "communication_style": "Structured and collaborative",
+              "completed_projects": [
+                "proj-005"
+              ],
+              "current_projects": [
+                "proj-006",
+                "proj-015",
+                "proj-016"
+              ]
+            },
+            "ranking_score": 60.69,
+            "confidence_score": 0.61,
+            "explanation": "Arjun Sharma is a strong fit for Map cross-functional roles with 1 matching skills, 14 years of experience, and a confidence score of 0.61.",
+            "structured_reasoning": [
+              "Skill coverage: 1 of 3 required skills matched.",
+              "Experience: 14 years in Engineering.",
+              "Trust and collaboration: 85.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 42/100 and availability busy.",
+              "Worked on Canvas Design System Program 1 using Design Systems.",
+              "Worked on Canvas Design System Initiative 2 using Design Systems."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-008",
+              "full_name": "Nisha Sharma",
+              "designation": "Senior Software Engineer",
+              "department": "Engineering",
+              "office_location": "Bengaluru",
+              "experience_years": 11,
+              "skills": [
+                "FastAPI",
+                "Microservices",
+                "System Design",
+                "Communication",
+                "Program Management",
+                "React"
+              ],
+              "certifications": [
+                "Engineering Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Hindi",
+                "Tamil"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "09:30",
+                "end": "12:30",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 35,
+              "trust_score": 80.0,
+              "collaboration_score": 83.0,
+              "mentor_score": 92.0,
+              "communication_style": "Concise and direct",
+              "completed_projects": [
+                "proj-002",
+                "proj-005"
+              ],
+              "current_projects": [
+                "proj-006",
+                "proj-009",
+                "proj-012",
+                "proj-015",
+                "proj-016",
+                "proj-021",
+                "proj-022"
+              ]
+            },
+            "ranking_score": 58.66,
+            "confidence_score": 0.59,
+            "explanation": "Nisha Sharma is a strong fit for Map cross-functional roles with 1 matching skills, 11 years of experience, and a confidence score of 0.59.",
+            "structured_reasoning": [
+              "Skill coverage: 1 of 3 required skills matched.",
+              "Experience: 11 years in Engineering.",
+              "Trust and collaboration: 80.0/100 trust, 83.0/100 collaboration.",
+              "Workload and availability: workload 35/100 and availability busy.",
+              "Worked on Canvas Design System Program 1 using Design Systems.",
+              "Worked on Canvas Design System Initiative 2 using Design Systems."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-089",
+              "full_name": "Aisha Iyer",
+              "designation": "ML Engineer",
+              "department": "Data Science",
+              "office_location": "Bengaluru",
+              "experience_years": 14,
+              "skills": [
+                "Machine Learning",
+                "Data Engineering",
+                "SQL",
+                "Communication",
+                "Program Management",
+                "MLOps"
+              ],
+              "certifications": [
+                "Data Science Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "10:00",
+                "end": "13:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 42,
+              "trust_score": 93.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 66.0,
+              "communication_style": "Structured and collaborative",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 55.81,
+            "confidence_score": 0.56,
+            "explanation": "Aisha Iyer is a strong fit for Map cross-functional roles with 1 matching skills, 14 years of experience, and a confidence score of 0.56.",
+            "structured_reasoning": [
+              "Skill coverage: 1 of 3 required skills matched.",
+              "Experience: 14 years in Data Science.",
+              "Trust and collaboration: 93.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 42/100 and availability busy."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-083",
+              "full_name": "Nisha Iyer",
+              "designation": "Senior Data Scientist",
+              "department": "Data Science",
+              "office_location": "Bengaluru",
+              "experience_years": 11,
+              "skills": [
+                "Experimentation",
+                "Machine Learning",
+                "Data Engineering",
+                "Communication",
+                "Program Management",
+                "SQL"
+              ],
+              "certifications": [
+                "Data Science Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Hindi",
+                "Tamil"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "13:00",
+                "end": "17:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 56,
+              "trust_score": 91.0,
+              "collaboration_score": 83.0,
+              "mentor_score": 77.0,
+              "communication_style": "Facilitative and empathetic",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 52.52,
+            "confidence_score": 0.53,
+            "explanation": "Nisha Iyer is a strong fit for Map cross-functional roles with 1 matching skills, 11 years of experience, and a confidence score of 0.53.",
+            "structured_reasoning": [
+              "Skill coverage: 1 of 3 required skills matched.",
+              "Experience: 11 years in Data Science.",
+              "Trust and collaboration: 91.0/100 trust, 83.0/100 collaboration.",
+              "Workload and availability: workload 56/100 and availability busy."
+            ]
+          }
+        ],
+        "task-3": [
+          {
+            "employee": {
+              "employee_id": "emp-064",
+              "full_name": "Aisha Reddy",
+              "designation": "People Partner",
+              "department": "HR",
+              "office_location": "Delhi",
+              "experience_years": 14,
+              "skills": [
+                "Learning & Development",
+                "Mentoring",
+                "Talent Management",
+                "Communication",
+                "Program Management",
+                "Recruiting"
+              ],
+              "certifications": [
+                "HR Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "09:30",
+                "end": "12:30",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 35,
+              "trust_score": 80.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 71.0,
+              "communication_style": "Concise and direct",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 75.88,
+            "confidence_score": 0.76,
+            "explanation": "Aisha Reddy is a strong fit for Assemble the candidate team with 3 matching skills, 14 years of experience, and a confidence score of 0.76.",
+            "structured_reasoning": [
+              "Skill coverage: 3 of 3 required skills matched.",
+              "Experience: 14 years in HR.",
+              "Trust and collaboration: 80.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 35/100 and availability busy."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-089",
+              "full_name": "Aisha Iyer",
+              "designation": "ML Engineer",
+              "department": "Data Science",
+              "office_location": "Bengaluru",
+              "experience_years": 14,
+              "skills": [
+                "Machine Learning",
+                "Data Engineering",
+                "SQL",
+                "Communication",
+                "Program Management",
+                "MLOps"
+              ],
+              "certifications": [
+                "Data Science Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "10:00",
+                "end": "13:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 42,
+              "trust_score": 93.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 66.0,
+              "communication_style": "Structured and collaborative",
+              "completed_projects": [],
+              "current_projects": []
+            },
+            "ranking_score": 66.47,
+            "confidence_score": 0.66,
+            "explanation": "Aisha Iyer is a strong fit for Assemble the candidate team with 2 matching skills, 14 years of experience, and a confidence score of 0.66.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 3 required skills matched.",
+              "Experience: 14 years in Data Science.",
+              "Trust and collaboration: 93.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 42/100 and availability busy."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-044",
+              "full_name": "Aditya Patel",
+              "designation": "Quality Automation Lead",
+              "department": "QA",
+              "office_location": "Hyderabad",
+              "experience_years": 14,
+              "skills": [
+                "Test Automation",
+                "Selenium",
+                "Playwright",
+                "Communication",
+                "Program Management",
+                "API Testing"
+              ],
+              "certifications": [
+                "QA Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "09:30",
+                "end": "12:30",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 63,
+              "trust_score": 92.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 61.0,
+              "communication_style": "Concise and direct",
+              "completed_projects": [
+                "proj-008"
+              ],
+              "current_projects": [
+                "proj-018"
+              ]
+            },
+            "ranking_score": 64.65,
+            "confidence_score": 0.65,
+            "explanation": "Aditya Patel is a strong fit for Assemble the candidate team with 2 matching skills, 14 years of experience, and a confidence score of 0.65.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 3 required skills matched.",
+              "Experience: 14 years in QA.",
+              "Trust and collaboration: 92.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 63/100 and availability busy."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-019",
+              "full_name": "Aditya Sharma",
+              "designation": "Platform Engineer",
+              "department": "DevOps",
+              "office_location": "Pune",
+              "experience_years": 14,
+              "skills": [
+                "CI/CD",
+                "AWS",
+                "Docker",
+                "Communication",
+                "Program Management",
+                "Observability"
+              ],
+              "certifications": [
+                "DevOps Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "13:00",
+                "end": "17:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 56,
+              "trust_score": 79.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 66.0,
+              "communication_style": "Facilitative and empathetic",
+              "completed_projects": [
+                "proj-014"
+              ],
+              "current_projects": [
+                "proj-004",
+                "proj-024"
+              ]
+            },
+            "ranking_score": 63.39,
+            "confidence_score": 0.63,
+            "explanation": "Aditya Sharma is a strong fit for Assemble the candidate team with 2 matching skills, 14 years of experience, and a confidence score of 0.63.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 3 required skills matched.",
+              "Experience: 14 years in DevOps.",
+              "Trust and collaboration: 79.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 56/100 and availability busy."
+            ]
+          },
+          {
+            "employee": {
+              "employee_id": "emp-039",
+              "full_name": "Aisha Patel",
+              "designation": "Quality Automation Lead",
+              "department": "QA",
+              "office_location": "Hyderabad",
+              "experience_years": 14,
+              "skills": [
+                "Test Automation",
+                "Selenium",
+                "Playwright",
+                "Communication",
+                "Program Management",
+                "API Testing"
+              ],
+              "certifications": [
+                "QA Professional Certification"
+              ],
+              "languages": [
+                "English",
+                "Marathi",
+                "Hindi"
+              ],
+              "availability": "busy",
+              "preferred_meeting_hours": {
+                "start": "13:00",
+                "end": "17:00",
+                "timezone": "Asia/Calcutta"
+              },
+              "current_workload": 84,
+              "trust_score": 95.0,
+              "collaboration_score": 89.0,
+              "mentor_score": 76.0,
+              "communication_style": "Facilitative and empathetic",
+              "completed_projects": [
+                "proj-008"
+              ],
+              "current_projects": [
+                "proj-018"
+              ]
+            },
+            "ranking_score": 63.39,
+            "confidence_score": 0.63,
+            "explanation": "Aisha Patel is a strong fit for Assemble the candidate team with 2 matching skills, 14 years of experience, and a confidence score of 0.63.",
+            "structured_reasoning": [
+              "Skill coverage: 2 of 3 required skills matched.",
+              "Experience: 14 years in QA.",
+              "Trust and collaboration: 95.0/100 trust, 89.0/100 collaboration.",
+              "Workload and availability: workload 84/100 and availability busy."
+            ]
+          }
+        ]
+      }
+    },
+    "coordination": {
+      "mission_id": "mission-f1e709d8a5c4",
+      "assigned_employee_ids": [
+        "emp-031",
+        "emp-089",
+        "emp-004",
+        "emp-009",
+        "emp-064"
+      ],
+      "scheduled_meeting_ids": [
+        "meeting-d8a5c4"
+      ],
+      "notification_ids": [
+        "notif-auto-d8a5c4"
+      ]
+    }
   }
 ]
