@@ -274,8 +274,8 @@ HumanGrid-Concierge
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/Shashank-m-m26/Human_Grid.git
+cd Human_Grid
 ```
 
 ---
@@ -375,23 +375,17 @@ HumanGrid Concierge incorporates several security mechanisms:
 
 # 📸 Screenshots
 
-*(Add screenshots after capturing them.)*
-
 ### Landing Page
 
-![Landing](assets/landing_page.png)
+![Landing](assets/landingpage.png)
 
 ### Mission Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/mission_command_dashboard.png)
 
-### Knowledge Graph
+### Agent Orchestration
 
-![Knowledge Graph](assets/knowledge_graph.png)
-
-### Agent Timeline
-
-![Timeline](assets/timeline.png)
+![Timeline](assets/final_agent_orch.png)
 
 ---
 
@@ -399,7 +393,7 @@ HumanGrid Concierge incorporates several security mechanisms:
 
 YouTube Demo:
 
-(Add your YouTube link here)
+https://www.youtube.com/watch?v=uaLujMwuD-o
 
 ---
 
